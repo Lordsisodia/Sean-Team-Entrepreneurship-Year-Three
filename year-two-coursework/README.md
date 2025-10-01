@@ -20,6 +20,35 @@ This directory contains coursework and context from Team Entrepreneurship Year T
   - Year Two Goals & Implementation Plan
   - Final Analysis & Reflection
 
+### SMART Objectives
+- **File:** `smart-objectives.md`
+- **Description:** Six SMART Objectives across Self, Team, and Project focus areas
+- **Key Objectives:**
+  - 100 AI Outreach Agents (75% achieved)
+  - 5 Collaborative Ventures (60% achieved)
+  - AI-Powered Resource Hub (90% achieved)
+  - Health-Focused Lifestyle (70% achieved)
+  - 99% Process Automation (85% achieved)
+  - 3 AI Applications (80% achieved)
+
+### Changelog & Feedback
+- **File:** `changelog-feedback.md`
+- **Description:** Detailed log of objective changes and feedback received throughout Year Two
+- **Content:**
+  - 20+ documented changes from September 2024 to April 2025
+  - Feedback from team members (Matt, Ben, Sam, Harry, Jaymie, Emma)
+  - Client and mentor feedback with action items
+  - Critical response analysis and improvements
+
+### Activity Log
+- **File:** `activity-log.md`
+- **Description:** Monthly practice and enquiry activities from September 2024 to April 2025
+- **Structure:**
+  - Practice Activities (hands-on implementation)
+  - Enquiry Activities (research and learning)
+  - Hours tracking and competency alignment
+  - SMART Objective correlation
+
 ## Key Highlights from Year Two
 
 ### Major Achievements
