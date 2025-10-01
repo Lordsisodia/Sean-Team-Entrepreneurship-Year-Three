@@ -46,6 +46,11 @@ Year Three academic framework and assessment guidance:
   - Portfolio of Self-Leadership (60%) + Storyboard Presentation (40%)
   - Self-mastery focus with exit strategy preparation
 
+- **EiEaE3 Handbook** - Enquiry into Enterprise and Entrepreneurship 3 (UMCDSN-30-3)
+  - 30 credits in Learning from Others strand
+  - Portfolio of Enquiry (60%) + Training Session Workshop Delivery (40%)
+  - External learning focus with exit strategy alignment
+
 - **Self-Leadership Reading List** - Comprehensive LfO resources across all TE years
   - Year 3 advanced materials on leadership theory and career development
   - Integration guidelines for assignments and competency development
@@ -98,13 +103,16 @@ Building on established Year Two competencies, Year Three focuses on:
 - [`year-two-coursework/learning-contract.md`](year-two-coursework/learning-contract.md) - Comprehensive learning journey
 - [`module-handbooks/ralo3-handbook.md`](module-handbooks/ralo3-handbook.md) - Running a Learning Organisation 3 framework
 - [`module-handbooks/mlad3-handbook.md`](module-handbooks/mlad3-handbook.md) - Managing my Learning and Development 3 framework
+- [`module-handbooks/eieae3-handbook.md`](module-handbooks/eieae3-handbook.md) - Enquiry into Enterprise and Entrepreneurship 3 framework
 - [`module-handbooks/self-leadership-reading-list.md`](module-handbooks/self-leadership-reading-list.md) - Self-Leadership LfO resources
 
 ### 🎯 Current Focus
 - **Running a Learning Organisation 3** preparation and strategic planning
-- **Managing my Learning and Development 3** self-leadership portfolio and storyboard preparation
+- **Managing my Learning and Development 3** self-leadership portfolio and storyboard preparation  
+- **Enquiry into Enterprise and Entrepreneurship 3** portfolio development and workshop delivery
 - **Team Company Progress** documentation and evidence compilation
 - **Annual Report** foundation building from Year Two achievements
+- **Learning from Others** external networking and competency development
 - **Self-Leadership Development** exit strategy and self-mastery focus
 - **Unicore Development** initiatives and venture planning
 
