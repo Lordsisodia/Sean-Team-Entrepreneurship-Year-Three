@@ -41,6 +41,15 @@ Year Three academic framework and assessment guidance:
   - Strategy Presentation (30%) + Team Company Progress (30%) + Annual Report (40%)
   - Comprehensive marking criteria and learning outcomes
 
+- **MLAD3 Handbook** - Managing my Learning and Development 3 (UMCDSL-30-3)
+  - 30 credits in Self-Leadership strand
+  - Portfolio of Self-Leadership (60%) + Storyboard Presentation (40%)
+  - Self-mastery focus with exit strategy preparation
+
+- **Self-Leadership Reading List** - Comprehensive LfO resources across all TE years
+  - Year 3 advanced materials on leadership theory and career development
+  - Integration guidelines for assignments and competency development
+
 ## Team Apollo Context
 
 ### Team Members
@@ -87,12 +96,16 @@ Building on established Year Two competencies, Year Three focuses on:
 - [`year-two-coursework/README.md`](year-two-coursework/README.md) - Complete Year Two overview
 - [`year-two-coursework/smart-objectives.md`](year-two-coursework/smart-objectives.md) - 6 SMART objectives with metrics
 - [`year-two-coursework/learning-contract.md`](year-two-coursework/learning-contract.md) - Comprehensive learning journey
-- [`module-handbooks/ralo3-handbook.md`](module-handbooks/ralo3-handbook.md) - Year Three module framework
+- [`module-handbooks/ralo3-handbook.md`](module-handbooks/ralo3-handbook.md) - Running a Learning Organisation 3 framework
+- [`module-handbooks/mlad3-handbook.md`](module-handbooks/mlad3-handbook.md) - Managing my Learning and Development 3 framework
+- [`module-handbooks/self-leadership-reading-list.md`](module-handbooks/self-leadership-reading-list.md) - Self-Leadership LfO resources
 
 ### 🎯 Current Focus
 - **Running a Learning Organisation 3** preparation and strategic planning
+- **Managing my Learning and Development 3** self-leadership portfolio and storyboard preparation
 - **Team Company Progress** documentation and evidence compilation
 - **Annual Report** foundation building from Year Two achievements
+- **Self-Leadership Development** exit strategy and self-mastery focus
 - **Unicore Development** initiatives and venture planning
 
 ---
