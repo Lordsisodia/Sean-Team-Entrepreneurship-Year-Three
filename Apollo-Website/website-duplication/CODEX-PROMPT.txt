@@ -1,0 +1,49 @@
+==========================================================
+COPY THIS ENTIRE MESSAGE AND PASTE INTO CODEX
+==========================================================
+
+I need you to build a pixel-perfect recreation of the Team Apollo website using React + TypeScript + Tailwind CSS + Framer Motion.
+
+📁 PROJECT LOCATION:
+/Users/shaansisodia/DEV/team-entrepreneurship/Apollo-Website/website-duplication/
+
+📋 COMPLETE SPECIFICATIONS PROVIDED:
+✅ CODEX-HANDOFF.md - Your main instruction manual (read this first!)
+✅ component-specifications.md - Exact CSS for every component
+✅ visual-content-inventory.md - All content extracted from site
+✅ implementation-roadmap.md - 11-phase detailed build plan
+✅ design-system.md - Complete design tokens
+✅ QUICK-START.md - Starter code snippets
+
+🎯 YOUR MISSION:
+Build all components following the CODEX-HANDOFF.md file exactly.
+
+🚀 START HERE:
+1. Read /Users/shaansisodia/DEV/team-entrepreneurship/Apollo-Website/website-duplication/CODEX-HANDOFF.md
+2. Follow the 20-step execution checklist
+3. Build each component with exact specifications provided
+4. All colors, spacing, typography, and interactions are documented
+
+📦 TECH STACK:
+- React 18+ with TypeScript
+- Vite for build tooling
+- Tailwind CSS for styling (config provided)
+- Framer Motion for animations
+
+✅ SUCCESS CRITERIA:
+- All 7 sections render correctly
+- Sidebar fixed left (355px)
+- Right nav fixed right (60px)
+- Colors match exactly (#1f1f1f, rgb(38, 148, 237))
+- Typography sizes correct (72px hero, 56px sections)
+- All hover effects working
+- Smooth scrolling
+- Mobile responsive
+- No console errors
+
+🎬 BEGIN:
+Start by reading the CODEX-HANDOFF.md file completely, then begin Phase 1, Step 1 (Initialize project).
+
+Ask me questions if anything is unclear. Otherwise, begin building!
+
+==========================================================

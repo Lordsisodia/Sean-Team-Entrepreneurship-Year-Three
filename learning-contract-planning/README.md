@@ -1,8 +1,168 @@
-# Learning Contract Planning - First Class Strategy
+# Learning Contract Planning - Organized Structure
 
-**Student:** Shaan Sisodia (22069829) | **Team:** Apollo | **Coach:** Emma  
-**Module:** Managing my Learning and Development 3 (UMCDSL-30-3)  
-**Target:** First Class (70%+) with aim for Outstanding (90-100%)
+**Student:** Sean Sisodia
+**Module:** MLAD3 - Portfolio of Self-Leadership
+**Year:** 3 (2025-2026)
+**Target Grade:** First Class 70%+ (Aiming for Outstanding 90%+)
+
+---
+
+## 📁 FOLDER STRUCTURE
+
+### 📋 01-FINAL-SUBMISSIONS
+**Your ready-to-submit content**
+- `complete-learning-contract-package.md` - Main comprehensive package with all 8 sections
+- `where-am-i-now-FIXED-800-words.md` - Corrected version (cut from 1,111→800 words)
+
+### ✏️ 02-SECTION-DRAFTS
+**Individual section drafts (original versions)**
+- `where-have-i-been-draft.md` - 497 words, 5 learning moments
+- `where-am-i-now-section.md` - Original 796 words version
+- `where-do-i-want-to-get-to-draft.md` - 299 words exit strategy
+- `how-will-i-get-there-draft.md` - 499 words implementation plan
+- `year-three-competencies-draft.md` - 6 competencies for development
+- `strengths-and-challenges-draft.md` - 6 strengths + 6 challenges
+
+### 🔧 03-CRITICAL-FIXES
+**Essential components for First Class grade (70-75%)**
+- `change-log.md` - Change tracking system with templates
+- `feedback-and-response-table.md` - Feedback documentation framework
+- `activity-log-approvals.md` - Team Company Director approval system
+
+### 📊 04-MARKING-ASSESSMENTS
+**Grade analysis and improvement roadmaps**
+- `pebblepad-harsh-marking-feedback.md` - **MOST RECENT** - Detailed PebblePad submission assessment
+- `detailed-marking-assessment.md` - Shows current grade 65-68% with improvement path
+- `harsh-marking-feedback.md` - Initial brutal assessment
+- `outstanding-90-percent-requirements.md` - Path to Outstanding grade
+- `marking-criteria-analysis.md` - Criteria breakdown
+
+### 🎯 05-STRATEGY-PLANNING
+**Strategic frameworks and planning documents**
+- `first-class-strategy.md` - Overall strategy for 70-100%
+- `exit-strategy-framework.md` - 9-month partnership scaling plan
+- `competency-development-strategy.md` - UWE TE Framework alignment
+- `evidence-of-learning-strategy.md` - 18 undertakings roadmap
+
+### 📚 06-REFERENCE-MATERIALS
+**Context and background information**
+- `user-clarifications-year-two.md` - Real achievements vs assumptions
+- `year-two-achievements-extraction.md` - Year Two data extraction
+
+### 🧠 PSYCHOMETRIC-ASSESSMENTS
+**Six assessment files (25,000+ words total)**
+- All psychometric assessment results and analysis
+
+---
+
+## 🎯 CURRENT STATUS
+
+### ✅ COMPLETED
+- All 8 Learning Contract sections drafted
+- Change Log template created
+- Feedback & Response table created
+- Activity Log Approvals system created
+- Detailed marking assessment completed
+- Critical fixes identified
+
+### ⚠️ URGENT FIXES NEEDED (Before Oct 27 deadline)
+
+**Priority 1: Fix Competencies Section** ⏱️ 1 hour
+- Current: 25-35% (FAIL)
+- Fix: Use corrected version from `04-marking-assessments/pebblepad-harsh-marking-feedback.md`
+- Impact: +15-20% to overall grade
+
+**Priority 2: Cut "Where Am I Now?" Word Count** ⏱️ 30 min
+- Current: 1,111 words (39% OVER 800 limit)
+- Fix: Use `01-final-submissions/where-am-i-now-FIXED-800-words.md`
+- Impact: Prevents -20-30% penalty
+
+**Priority 3: Fix Year 2 Competencies** ⏱️ 2 hours
+- Current: 35-40% (FAIL)
+- Fix: Rewrite using UWE TE Framework
+- Impact: +12-15% to overall grade
+
+**Priority 4: Cut Other Word Counts** ⏱️ 30 min
+- Where Have I Been: Cut 23 words (523→500)
+- Where Do I Want: Cut 6 words (306→300)
+- How Will I Get There: Cut 19 words (519→500)
+
+**Total Time: 4-5 hours → Grade improvement: 52-58% → 70-75% (First Class)** ✅
+
+---
+
+## 📈 GRADE PROGRESSION PATH
+
+| Status | Grade | What's Needed |
+|--------|-------|---------------|
+| **Current PebblePad Submission** | 52-58% (2:2/Borderline Fail) | Has major errors |
+| **With Priority Fixes (1-4)** | 70-75% (First Class) | 4-5 hours work |
+| **With Enhancement Fixes** | 85-90% (Outstanding) | +20-25 hours |
+| **With Full Outstanding Work** | 90-95% (Outstanding) | +30-35 hours |
+
+---
+
+## 🚀 NEXT STEPS
+
+### THIS WEEK (Before Oct 27 Team Company Review):
+1. ✅ Copy corrected "Competencies I will Develop" into PebblePad
+2. ✅ Copy corrected "Where Am I Now?" (800 words) into PebblePad
+3. ✅ Rewrite "Competencies I've Developed" using UWE TE Framework
+4. ✅ Cut word counts on other sections
+5. ✅ Get Team Company Director to review and approve
+
+### BEFORE FINAL SUBMISSION (April 2026):
+6. Complete "Where Did I Get To?" Final Analysis (1,000-1,500 words)
+7. Document all 6 LbD + 6 LfO + 6 Competency undertakings
+8. Update Change Log with all feedback responses
+9. Complete Feedback & Response table entries
+10. Gather stakeholder testimonials and evidence
+
+---
+
+## 🔑 KEY DOCUMENTS TO USE
+
+**For Immediate PebblePad Fixes:**
+- `04-marking-assessments/pebblepad-harsh-marking-feedback.md` - All corrected sections ready to copy-paste
+
+**For Understanding Requirements:**
+- `04-marking-assessments/detailed-marking-assessment.md` - Current grade analysis
+
+**For Outstanding Grade (90%+):**
+- `04-marking-assessments/outstanding-90-percent-requirements.md` - Enhancement roadmap
+
+**For Team Company Meeting:**
+- `03-critical-fixes/activity-log-approvals.md` - Get Director signatures
+
+---
+
+## 📝 UWE TE COMPETENCY FRAMEWORK (Quick Reference)
+
+**The ONLY competencies to use:**
+1. Strategic Leadership
+2. Professional Communication
+3. Innovation Management
+4. Service Design & Delivery
+5. Financial Management
+6. Self-Management
+7. Ethical & Sustainable Practice
+8. International Business Development
+9. Entrepreneurial Judgment
+10. Team Management
+
+**DO NOT list technical skills or challenges as competencies!**
+
+---
+
+## 💡 TIPS
+
+- **Word counts are STRICT** - Being over limit can result in automatic grade penalties or caps at 40%
+- **Use UWE TE Competency Framework explicitly** - Reference it by name in every competency section
+- **Focus on self-management, not just achievements** - The module is about HOW you manage yourself
+- **Get stakeholder evidence** - Quotes from Team Apollo, clients, Team Company Director
+- **Use academic references** - Minimum 5-8 citations in UWE Harvard format
+
+---
 
 ## Planning Documentation Overview
 
