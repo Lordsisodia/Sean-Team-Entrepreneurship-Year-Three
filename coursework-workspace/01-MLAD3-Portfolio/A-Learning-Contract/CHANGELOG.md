@@ -18,9 +18,9 @@ This change log tracks all version activity across the 9 Learning Contract secti
 |---------|-----------------|--------|------------|--------------|
 | 01. Where Have I Been | v01 | Draft | 519/500 | 2026-01-20 |
 | 02. Competencies Developed | v01 | Draft | TBD | 2026-01-20 |
-| 03. Where Am I Now | v01 | Draft | TBD | 2026-01-20 |
+| 03. Where Am I Now | v02 | Draft | 753/700 | 2026-01-20 |
 | 04. Strengths | v01 | Draft | TBD | 2026-01-20 |
-| 05. Challenges | v01 | Draft | TBD | 2026-01-20 |
+| 05. Challenges | v02 | Complete | 357/350 | 2026-01-20 |
 | 06. Where Do I Want To Get To | v01 | Draft | TBD | 2026-01-20 |
 | 07. How Will I Get There | v01 | Draft | TBD | 2026-01-20 |
 | 08. Competencies Will Develop | v01 | Draft | TBD | 2026-01-20 |
@@ -31,6 +31,7 @@ This change log tracks all version activity across the 9 Learning Contract secti
 ## Recent Activity
 
 ### 2026-01-20
+
 **System Setup**
 - Created 9-section folder structure with versioning system
 - Established `.docs/` documentation folder
@@ -45,6 +46,14 @@ This change log tracks all version activity across the 9 Learning Contract secti
 - `06-where-do-i-want-to-get-to/versions/v01/` - From Q3
 - `07-how-will-i-get-there/versions/v01/` - From Q4
 - `08-competencies-will-develop/versions/v01/` - From Year 3 competencies
+
+**Q2 Challenges Rewrite (v02):**
+- Rewrote challenges section with Team Apollo specificity
+- Added full personal accountability throughout (zero external blame)
+- Integrated psychometric profile connections (INTJ, aggressive tendencies, conscientiousness)
+- Reduced psychometric profile section to compensate for expanded challenges
+- Created v02 of Q2 main draft (753 words, within 500-800 target)
+- Challenges section: 357 words (within 300-400 target)
 
 **Status:** All sections now in versioning system, ready for iterative development
 
@@ -107,7 +116,8 @@ This change log tracks all version activity across the 9 Learning Contract secti
 ### 03. Where Am I Now
 | Version | Date | Status | Word Count | Notes |
 |---------|------|--------|------------|-------|
-| v01 | 2026-01-20 | Draft | TBD | Migrated from existing Q2 content |
+| v01 | 2026-01-20 | Draft | 788/700 | Migrated from existing Q2 content |
+| v02 | 2026-01-20 | Draft | 753/700 | Rewrote challenges section with Team Apollo specificity, integrated psychometric connections, reduced psychometric profile to compensate |
 
 ### 04. Strengths
 | Version | Date | Status | Word Count | Notes |
@@ -118,6 +128,7 @@ This change log tracks all version activity across the 9 Learning Contract secti
 | Version | Date | Status | Word Count | Notes |
 |---------|------|--------|------------|-------|
 | v01 | 2026-01-20 | Draft | TBD | Created from Q2 content split |
+| v02 | 2026-01-20 | Complete | 357/350 | Rewrote with Team Apollo specificity (Sam, Pranav, dates), full personal accountability, psychometric integration |
 
 ### 06. Where Do I Want To Get To
 | Version | Date | Status | Word Count | Notes |
@@ -166,11 +177,11 @@ This change log tracks all version activity across the 9 Learning Contract secti
 ## Quick Stats
 
 - **Total Sections:** 9
-- **Total Versions Created:** 9
+- **Total Versions Created:** 10 (v02 for Q2 and Challenges)
 - **Sections with Draft Content:** 6
-- **Sections Awaiting Initial Draft:** 3 (Strengths, Challenges, Q5)
-- **Sections Complete:** 0
-- **Current Overall Progress:** Phase 1 (Setup) complete
+- **Sections Awaiting Initial Draft:** 3 (Strengths, Challenges standalone, Q5)
+- **Sections Complete:** 1 (Challenges v02)
+- **Current Overall Progress:** Phase 1 (Setup) complete, Q2 challenges rewrite complete
 
 ---
 
@@ -180,6 +191,7 @@ This change log tracks all version activity across the 9 Learning Contract secti
 - Status values: `draft`, `under-review`, `revising`, `complete`
 - Q5 (Where Did I Get To) is intentionally deferred until April 2026
 - All existing content has been preserved in v01 versions
+- Q2 v02 includes rewritten challenges section with Team Apollo specificity and full personal accountability
 
 ---
 
