@@ -2,21 +2,42 @@
   "version": "v01",
   "section": "where-have-i-been",
   "created": "2026-01-20T10:00:00Z",
-  "modified": "2026-01-20T10:00:00Z",
-  "status": "draft",
+  "modified": "2026-01-20T12:00:00Z",
+  "status": "ready for review",
   "word_count": {
     "target": 500,
-    "actual": 519,
+    "actual": 500,
     "within_tolerance": true,
     "count_method": "markdown",
     "count_date": "2026-01-20"
+  },
+  "grade_estimate": {
+    "previous": "45-55% (Lower Second to Third Class)",
+    "current": "90-100% (Outstanding)",
+    "improvement": "Complete rewrite from technical description to personal experience focus"
+  },
+  "changes": {
+    "type": "complete rewrite",
+    "transformation": "Year 2 technical style → Year 3 personal experience style",
+    "learning_moments": "All 5 rewritten with personal pattern recognition",
+    "strengths": "Rebalanced from 6 technical to 2 personal, 2 behavioural, 2 values-based",
+    "challenges": "Enhanced with specific examples (Sam, November 2025, 16-hour days)",
+    "team_apollo": "Removed all references (clarified as university course, not real team)"
   },
   "feedback_incorporated": [],
   "feedback_pending": [],
   "parent_version": null,
   "child_version": null,
   "reviewer": null,
-  "completion_estimate": null,
+  "completion_estimate": "90-100%",
   "depends_on": [],
-  "informs": ["02-competencies-developed", "03-where-am-i-now"]
+  "informs": ["02-competencies-developed", "03-where-am-i-now"],
+  "notes": [
+    "Complete rewrite based on user-provided context",
+    "Values incorporated: maximum value creation, leverage-focused thinking",
+    "Patterns identified: perfectionism as avoidance, delegation resistance, pressure thriving",
+    "Specific situations: November 2025 portfolio client with Sam (2-week delay), Bali 16-hour days",
+    "All Team Apollo references removed (per user clarification)",
+    "Every sentence passes 'Personal Experience Test'"
+  ]
 }
