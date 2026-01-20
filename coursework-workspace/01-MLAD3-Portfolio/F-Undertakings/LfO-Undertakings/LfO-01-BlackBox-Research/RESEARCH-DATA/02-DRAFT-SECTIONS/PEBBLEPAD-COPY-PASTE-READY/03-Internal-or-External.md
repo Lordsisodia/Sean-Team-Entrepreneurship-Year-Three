@@ -1,0 +1,3 @@
+# 3. INTERNAL OR EXTERNAL
+
+External

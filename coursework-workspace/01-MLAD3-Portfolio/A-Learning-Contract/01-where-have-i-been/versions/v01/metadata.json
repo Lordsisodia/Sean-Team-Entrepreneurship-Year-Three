@@ -1,0 +1,22 @@
+{
+  "version": "v01",
+  "section": "where-have-i-been",
+  "created": "2026-01-20T10:00:00Z",
+  "modified": "2026-01-20T10:00:00Z",
+  "status": "draft",
+  "word_count": {
+    "target": 500,
+    "actual": 519,
+    "within_tolerance": true,
+    "count_method": "markdown",
+    "count_date": "2026-01-20"
+  },
+  "feedback_incorporated": [],
+  "feedback_pending": [],
+  "parent_version": null,
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [],
+  "informs": ["02-competencies-developed", "03-where-am-i-now"]
+}

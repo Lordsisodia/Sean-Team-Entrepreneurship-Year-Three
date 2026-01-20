@@ -1,0 +1,24 @@
+{
+  "version": "v{{VERSION}}",
+  "section": "{{SECTION_SLUG}}",
+  "created": "{{ISO_CREATED_DATE}}",
+  "modified": "{{ISO_MODIFIED_DATE}}",
+  "status": "{{STATUS}}",
+  "word_count": {
+    "target": {{TARGET_WORD_COUNT}},
+    "actual": {{ACTUAL_WORD_COUNT}},
+    "within_tolerance": {{WITHIN_TOLERANCE}},
+    "count_method": "{{COUNT_METHOD}}",
+    "count_date": "{{COUNT_DATE}}"
+  },
+  "feedback_incorporated": [
+    "{{PARENT_VERSION}}-1: {{FEEDBACK_SUMMARY}}"
+  ],
+  "feedback_pending": [],
+  "parent_version": "{{PARENT_VERSION_OR_NULL}}",
+  "child_version": "{{CHILD_VERSION_OR_NULL}}",
+  "reviewer": "{{REVIEWER_OR_NULL}}",
+  "completion_estimate": "{{COMPLETION_DATE_OR_NULL}}",
+  "depends_on": {{DEPENDENCIES_OR_EMPTY_ARRAY}},
+  "informs": {{INFORMS_OR_EMPTY_ARRAY}}
+}

@@ -1,0 +1,3 @@
+# 2. DATE OF THE LEARNING EXPERIENCE
+
+From 29 Oct 2025 and ongoing
