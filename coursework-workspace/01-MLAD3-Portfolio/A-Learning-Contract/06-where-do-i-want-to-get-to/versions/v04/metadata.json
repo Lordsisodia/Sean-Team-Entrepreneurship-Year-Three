@@ -1,0 +1,41 @@
+{
+  "version": "v04",
+  "section": "06-where-do-i-want-to-get-to",
+  "question": "Q3 - Where do I want to get to?",
+  "created_date": "2026-01-20",
+  "iteration_type": "final_polish",
+  "word_count": {
+    "target": 300,
+    "actual": 323,
+    "range_min": 270,
+    "range_max": 330,
+    "status": "within_target"
+  },
+  "parent_version": "v03",
+  "changes_from_previous": {
+    "added": [],
+    "removed": [],
+    "modified": [
+      "Grammar correction: 'takeover' → 'take over'",
+      "Spelling standardisation: 'prioritizing' → 'prioritising'",
+      "Spelling standardisation: 'prioritizing' → 'prioritise'",
+      "Spelling standardisation: 'commoditize' → 'commoditise'",
+      "Spelling standardisation: 'while' → 'whilst' (formal contexts)"
+    ],
+    "word_count_change": -2
+  },
+  "focus_areas": [
+    "Grammar and spelling check",
+    "Final flow improvements",
+    "Word count verification"
+  ],
+  "quality_checks": {
+    "content_quality": "pass",
+    "grammar_spelling": "pass",
+    "flow_structure": "pass",
+    "word_count": "pass",
+    "uk_english_consistency": "pass"
+  },
+  "submission_ready": true,
+  "notes": "Final polish iteration focusing on UK English standardisation and minor grammar corrections. All content from v03 preserved. Ready for final submission."
+}

@@ -1,21 +1,414 @@
-# YEAR 2 LEARNING CONTRACT
 
-**Instructions:**
-1. Copy your Year 2 Learning Contract content below
-2. Include ALL sections you submitted
-3. Paste everything exactly as it was submitted
-4. Save this file when complete
+PebblePad Home page	PlusPebble+ Home	ATLASATLAS (opens in new tab)
 
----
+i
+Learning Contract has loaded
 
-## PASTE YOUR YEAR 2 CONTENT BELOW THIS LINE
+This asset has been shared for assessment. It may look different to the version your assessor sees. Go to assessor view.
+
+Learning Contract
+
+  
+Learning Contract 
+"The learning contract tells participants & coaches what the learner’s intentions are, 
+how they will achieve them, and how the results are measured. 
+In this way, others can support them in their effort.”
+(Source: The Team Coach’s Best Tools – Johannes Partanen)
+This document utilises Cunningham's (2017) questions for self-managed learning, which have been adapted for the Team Entrepreneurship Programme. At the beginning of the year, you review and update your Learning Contract on your plans and commitments.  At the end of the year you reflect on how effective you have been in achieving your plans and commitments. This offers valuable learning opportunities!
+
+Respond to each question, referring to the prompts below and the MMLaD Module Handbook.  
+Utilise the word count indicated to provide concise and in-depth responses.
+You are expected to use your Learning Contract as a team-building tool to share with your Team Company. Your Team Coach can support you in doing this. 
+
+Where have I been?
+Evaluate 5 key learning moments from year 1 to identify successes or challenges in your ability to self-manage.   
+Identify behaviours, habits and mindsets that informed, or were a result of, the key learning moments.  
+Consider the impact you have had on others. 
+
+Where have I been? multi-line text editor.
+Where have I been? (500 words)
+Over the past year, I encountered transformative learning moments that reshaped my approach as a self-managed learner and business leader. Below, I evaluate five key experiences from Year 1, highlighting successes, challenges, and their impact on my self-leadership and others.
+
+Onboarding Interns and Leadership Growth
+Onboarding interns was pivotal for my leadership development. Initially, delegating tasks was challenging due to a perfectionist mindset, fearing quality would suffer. By establishing clear guidelines and incorporating feedback sessions, inspired by Kolb’s Experiential Learning Cycle, I turned this into an opportunity. Realizing low-level tasks could be automated, I implemented tools that reduced manual work by 30%, freeing 10 hours weekly for strategic tasks. This enhanced my self-leadership by teaching me to trust others and influence team dynamics, boosting output and fostering mentorship.
+Building Meaningful Connections
+Cultivating relationships beyond conventional networking was transformative. I converted two crypto investors into agency clients, generating £5,000 in revenue, and a connection with my flatmate’s brother, a software entrepreneur, provided AI industry insights. Early inconsistent follow-ups cost opportunities, but I developed a CRM system to stay engaged. This strengthened my self-leadership through strategic networking, broadening my vision and enabling market breakthroughs for my team.
+Engaging with Industry Veterans
+Interactions with AI community experts deepened my technical knowledge. Initially overwhelmed by complex AI coding, I committed to studying shared documents, speeding up our development process by 20%. These exchanges underscored the urgency of integrating AI solutions, keeping us competitive. This experience honed my self-leadership by fostering a growth mindset and proactive learning, benefiting my team’s innovation.
+Embracing Technology and Automation
+Leading AI and automation integration cut operational costs by 15% and improved delivery speed. Team resistance to new tools was a hurdle, but I overcame it with training sessions, promoting adaptability. This shift fostered a culture of continuous improvement, reducing reliance on manual processes. My self-leadership grew through innovation and resilience, driving team efficiency and scalability.
+Enhancing Time Management and Adaptability
+Facing tight deadlines, I refined time management through trial-and-error, experimenting with prioritization tools. Early frustrations with ineffective methods taught me resilience, raising my task completion rate from 70% to 90%. This allowed me to manage workloads independently, reducing team dependency and enabling focus on automation. This strengthened my self-leadership by improving prioritization and adaptability under pressure.
+Reflecting on these experiences, Year 1 was a journey of growth and adaptation. From trusting others during onboarding to leveraging connections and embracing technology, each moment enhanced my self-leadership, improving team productivity and innovation. These lessons solidified my commitment to continuous learning, ensuring I nurture relationships, lead dynamically, and refine strategies to drive success and support my team’s growth.
+
+Word count: 448 (Max 500)
+
+Competencies I've developed
+List 6 competencies that you developed during year 1. Provide a rationale for why you developed these competencies. 
+
+Refer to the competency framework that you used to identify and track your development.
+
+Competency
+Rationale for development
+Leadership & Team Management:
+
+I developed leadership to overcome delegation struggles during intern onboarding (Learning Contract: “Where have I been?”), guided by the UWE Team Entrepreneurship Competency Framework’s focus on team leadership. Using Hersey-Blanchard’s Situational Leadership Model and Gibb’s (1988) reflective cycle, I shifted to delegating, boosting team output by 40% (Apollo’s Activity Log). Sam’s feedback to share learnings led to mentorship sessions, supporting my SMART Objective to build three AI-driven applications by Q3. A UWE leadership workshop informed weekly feedback, enhancing my self-leadership confidence and fostering Apollo’s collaborative, ethical culture, vital for Year 2’s agency scaling. Progress was tracked via team logs, upholding Apollo’s integrity.
+
+Strategic Networking:
+
+I prioritized networking to address limited connections (Learning Contract: “Where am I now?”). Granovetter’s "Weak Ties" theory and Burt’s (2000) network theory guided three partnerships (e.g., SaaS tools, £5,000 revenue), supporting my SMART Objective to deploy 10 LinkedIn accounts (Changelog: 17 Jan 2025 pivot). Matt’s milestone feedback set Q1 targets (25 agents). Pranav (client) praised my outreach, boosting credibility. UWE’s networking guide shaped team workshops, expanding Apollo’s market access. This sharpened my strategic self-leadership, tracked via CRM, for Year 2’s lead generation.
+
+Technological Adaptability:
+
+I bridged technical gaps via AI integration (Learning Contract: “Where have I been?”). The Technology Acceptance Model and Rogers’ (2003) diffusion theory overcame team resistance, cutting manual workload by 50% (15 hours/week), aligning with my SMART Objective for 99% automation. Ben’s automation feedback inspired LinkedIn bots (Activity Log). An AI Summit 2023 session informed training, boosting my adaptive self-leadership and Apollo’s tech culture, tracked via efficiency metrics, for Year 2’s automation goals. This upholds Apollo’s innovative standards.
+
+Communication Skills:
+
+I resolved misalignment (Learning Contract: “Where have I been?”) using Nonviolent Communication and Gibb’s (1988) reflective cycle, improving client satisfaction by 25% and reducing Apollo’s misalignment by 30% via Slack, supporting my SMART Objective for an AI resource hub. Jaymie’s team alignment feedback refined briefs. A UWE study skills resource guided clarity, enhancing my persuasive self-leadership, tracked via client surveys, for Year 2’s client acquisition. Transparent communication upholds Apollo’s integrity.
+
+Project Management:
+
+I tackled chaotic workflows in AI projects (Learning Contract: “Where have I been?”). Agile methodologies and PMI’s (2017) framework, learned via UWE workshop, ensured four on-time deliveries, raising Apollo’s task completion by 20% (Trello retrospectives). Harry’s deadline feedback refined timelines, supporting my SMART Objective for five collaborative ventures. This honed my organizational self-leadership, tracked via Activity Log, for Year 2’s multi-project management, ensuring ethical delivery.
+
+Continuous Learning & Adaptation:
+
+I stayed AI-competitive (Learning Contract: “Where am I now?”) using Kolb’s Experiential Learning Cycle and Knowles’ (1975) self-directed learning, cutting model training time by 30% via conference insights, aligning with my SMART Objective for a health-focused lifestyle (Notion reflections, per Ben). Monthly “Tech Talks” boosted Apollo’s innovation (Activity Log). Emma’s tracking feedback refined logs, building my resilient self-leadership for Year 2’s market expansion, fostering ethical learning.
+
+Where am I now?
+Refer to 2 psychometric assessments completed for year 2.  Access assessments here: https://uwe.careercentre.me/resources/careerassessments/​​​​​​​ 
+Provide an analysis of your personality based on previous and current psychometric assessments, and any self-evaluation.  
+Justify more than 3 personal values that define your ability to self-manage. 
+ 
 
 
+Where am I now? multi-line text editor.
+My Year 2 psychometric assessments have sharpened my understanding of my personality and the values driving my self-management. I completed the Strengths Assessment and Motivation at Work Assessment for Year 2, complemented by my Year 1 Temperament and Learning Styles assessments, and self-evaluation, offering a comprehensive view of my leadership in the AI industry.
 
----
+The Strengths Assessment confirmed my prime strengths: problem-solving, public speaking, working under pressure, and decision-making. These fuel my ability to lead my team through complex challenges and deploy innovative AI solutions, keeping us competitive. For instance, during a critical project, I resolved a technical bottleneck under pressure, delivering on time and reinforcing my Impact value by driving tangible results for Apollo.
 
-## END OF YEAR 2 CONTENT
+The Motivation at Work Assessment revealed high scores in Development, Control, Recognition, Status, and Achievement. I thrive on learning, autonomy, acknowledgment, elevated standing, and challenging goals. This motivates me to pursue ambitious targets, like automating 99% of agency processes (SMART Objective), but I must balance my need for recognition with intrinsic drive to maintain consistency. My mid-range Purpose score shows I prioritize outcomes over organizational ethics, though I’m mindful of aligning with Apollo’s values.
 
-**Notes for reference:**
-- What was your final Year 2 grade? __________
-- Any key feedback from markers? (add below if applicable)
+My Temperament assessment identifies me as an INTJ—intelligent, strategic, and conclusion-driven. I excel at turning complex ideas into actionable plans, adapting swiftly. However, my reliance on intuition can lead me to overlook others’ input, and I rarely offer praise unless prompted—a weakness I’m addressing to foster team collaboration. This INTJ profile aligns with my Control and Achievement motivations, enhancing my strategic self-management.
+
+The Learning Styles assessment (score: 112) marks me as a versatile learner, blending Active Changer, Reflective Realist, Quietly Creative, and Pragmatic Doer styles. I experiment, reflect, innovate, and apply practical solutions, enabling self-directed learning. For example, I refined my time management by testing prioritization tools, raising my task completion rate by 90% (Learning Contract: “Where have I been?”).
+
+Self-evaluation crystallized four values shaping my self-management:
+
+Growth: I pursue lifelong learning, adopting new technologies and leadership skills to lead in AI.
+Responsibility: I own decisions, setting clear guidelines and feedback to align team efforts.
+Impact: I drive meaningful outcomes, like market expansion and AI adoption, delivering value.
+Autonomy: I value control, leading proactively to shape my work independently.
+These insights reveal an analytical, ambitious personality committed to excellence. They highlight strengths—strategy, adaptability—and growth areas, like inclusivity. In Year 2, I’ll leverage Autonomy and Growth to enhance team inclusivity through active praise and input, while driving innovation via Impact. This roadmap ensures I evolve as a self-managed leader, aligning with my SMART Objectives and Apollo’s goals.
+
+Word count: 434 (Max 500)
+
+Strengths
+List 6 of your strengths (these may take the form of abilities, skills or capabilities and/or take the form of personal qualities, characteristics or mindset) and provide examples of how these are of value to you and/or others.
+Strength
+The value to me/others
+Problem-Solving:
+
+Value to Me/Others:
+
+My problem-solving skills anchor my leadership in the AI industry, enabling me to address inefficiencies and drive Apollo’s growth while sharpening my strategic self-leadership. When outreach costs per client were high due to manual processes, I analyzed workflows and automated intern tasks using AI tools, reducing acquisition costs by 20% (£2,000 monthly) and freeing 12 hours weekly for strategic priorities. Emma’s feedback praised my innovative approach, noting its scalability. This supports my SMART Objective to achieve 99% process automation, aligning with Apollo’s ethical resource optimization.
+
+
+Assessment Link:
+
+Strengths Assessment: Listed as a prime strength, problem-solving is recognized as one of the skills that sets me apart and enhances my personal brand.
+Temperament (INTJ): My natural tendency to analyze and generate innovative solutions complements my INTJ profile, which values logical and strategic thinking.
+Public Speaking:
+
+Value to Me/Others:
+Public speaking empowers me to pitch ideas persuasively, elevating my profile and Apollo’s client trust. I created onboarding videos for agency owners, improving retention by 30% (3 retained clients), and led client calls that closed deals worth £7,500 in revenue. Sam’s feedback highlighted my engaging delivery, boosting team morale. This skill advances my SMART Objective for an AI resource hub by communicating its value clearly, ensuring Apollo’s transparent client engagement.
+
+
+Assessment Link:
+
+Strengths Assessment: Public speaking is noted as a prime strength, demonstrating my proficiency in articulating complex ideas.
+Motivation at Work: Recognition and achievement are high motivators for me, and my effective public speaking skills help me secure the praise and acknowledgment that drive my performance.
+Working Under Pressure:
+
+Value to Me/Others:
+I excel in high-pressure scenarios, delivering quality results that uphold Apollo’s reputation and client trust. For a crypto client, I built and tested an MVP app in 10 days for their investor meeting on 20th November 2024, enabling them to secure £50,000 in funding. Jaymie’s feedback noted my calm leadership, inspiring team resilience. This supports my SMART Objective to deploy 100 AI outreach agents under tight timelines, reflecting Apollo’s commitment to excellence.
+
+
+Assessment Link:
+
+Strengths Assessment: Working under pressure is highlighted as a prime strength that is vital in fast-paced environments.
+Temperament (INTJ): My natural resilience and capacity to maintain objectivity under stress align with the INTJ profile, which is well-suited for handling high-pressure scenarios.
+Decision-Making:
+
+Value to Me/Others:
+My decision-making ensures Apollo navigates uncertainty with strategic, informed choices, strengthening my autonomous leadership. When selecting automation tools, I evaluated 10 options and chose a suite that improved efficiency by 25% (15 hours saved weekly), advancing my 99% automation SMART Objective. Matt’s feedback endorsed my tool selection, streamlining team workflows. This upholds Apollo’s ethical delivery by prioritizing impactful solutions.
+
+
+Assessment Link:
+
+Strengths Assessment: Decision-making is one of my core strengths, demonstrating an ability to assess situations logically and make sound judgments.
+Temperament (INTJ): My inclination for strategic planning and logical analysis, as seen in my INTJ profile, reinforces my capacity for decisive leadership.
+Motivation at Work: A high score in control further emphasizes that having the autonomy to make decisions is a significant driver for my performance and job satisfaction.
+Networking:
+
+Value to Me/Others:
+Networking fuels Apollo’s expansion by forging relationships that unlock clients and insights, enhancing my collaborative self-leadership. Through LinkedIn and industry events in Bristol (e.g., TechSPARK 2024), I secured two clients worth £5,000 and gained AI insights from a software entrepreneur, as noted in “Building Meaningful Connections” (Where have I been?). Pranav’s feedback praised my outreach, elevating Apollo’s reputation. This supports my SMART Objective for 10 LinkedIn accounts, ensuring ethical client engagement.
+
+Assessment Link:
+
+Strengths Assessment: Networking is identified as a prime strength that contributes significantly to both my personal brand and the business’s growth.
+Learning Styles (Active Changer): My high score as an “Active Changer” indicates that I thrive on engaging with new people and experiences, which is essential for effective networking.
+Temperament (INTJ): While INTJs are often seen as independent, leveraging networking allows me to combine my strategic insights with external inputs for better decision-making.
+Adaptability:
+
+Value to Me/Others:
+Adaptability keeps Apollo agile in the fast-moving AI landscape, allowing me to pivot strategies and integrate cutting-edge tech, bolstering my innovative self-leadership. When Skool accounts were banned in October 2024, I shifted to Instagram outreach, maintaining lead flow with 40 new leads in two weeks. Ben’s feedback commended my quick pivot, inspiring team flexibility. This supports my SMART Objective to automate agency processes, reflecting Apollo’s innovative standards.
+
+
+Assessment Link:
+
+Strengths Assessment: Adaptability is a core strength that reflects my capacity to embrace change and drive innovation.
+Temperament (INTJ): My strategic vision and ability to synthesize complex ideas support a flexible approach to evolving business landscapes.
+Learning Styles (Reflective Realist): My ability to reflect on past experiences and integrate lessons learned demonstrates adaptability in refining processes and approaches over time.
+Motivation at Work: A lower preference for stability in my motivational profile indicates that I gain energy from change, further underscoring my adaptability.
+Challenges
+List 6 challenges you currently face (these may take the form of abilities, skills or capabilities and/or take the form of personal qualities, characteristics or mindset) and provide examples of how these impact you and/or others.
+Challenge
+How this impacts me/others
+Time Management:
+
+How This Impacts Me/Others:
+Balancing multiple projects often overwhelms me, leading to stress and missed commitments that affect both my performance and my team’s efficiency. For instance, with a client named Theo, I decided to cram six hours of work into one night, finishing at 3 AM. This left me too exhausted to attend a team entrepreneurship session the next day, either arriving late or skipping it entirely, which frustrated my team and lowered their morale. My tendency to overcommit stems from my "Active Changer" learning style, causing rapid task-switching, and my high "Development" motivation, pushing me to take on more than I can handle.
+
+ 
+
+Assessment Links & Details:
+
+My Learning Styles Assessment suggests that while I thrive as an “Active Changer,” I sometimes struggle to manage time effectively when switching between tasks rapidly.
+The Motivation at Work Assessment also indicates that the desire for development and control can sometimes lead to overcommitment, impacting my overall time management.
+Delegation:
+
+How This Impacts Me/Others:
+My reluctance to delegate critical tasks creates delays and limits team growth, as I often prefer doing things myself. Recently, I needed Sam to handle an automation task but didn’t train him because I didn’t want to invest the time. Instead, I did it myself, delaying a project by two days. This not only slowed progress but also denied Sam a chance to learn, impacting his development and team capacity. My INTJ temperament’s need for control and high "Control" motivation drive this behavior.
+
+ 
+
+Assessment Links & Details:
+
+The Temperament Assessment (INTJ) reveals a natural inclination to rely on my own analytical skills. This sometimes results in reluctance to delegate, as I am accustomed to having control over the decision-making process.
+My Motivation at Work Assessment also shows a high need for control, which can make it challenging to fully trust others with responsibilities.
+Work-Life Balance:
+
+How This Impacts Me/Others:
+I don’t prioritize work-life balance, believing I’m fine just working, but this leads to burnout that affects my leadership and team morale. After late-night work (e.g., post-client’s project), I was too drained to lead a team meeting effectively, reducing engagement by 15%. My low "Stability" motivation and INTJ’s task obsession push me to neglect rest, despite Emma’s advice to pace myself. This exhaustion hinders my ability to inspire the team.
+
+ 
+
+Assessment Links & Details:
+
+The Motivation at Work Assessment highlights that while I am driven by development and achievement, the low score in stability indicates that I gain energy from change and risk, sometimes at the cost of consistent personal balance.
+The insights from my Temperament Assessment further support that my intense focus on tasks can sometimes lead me to neglect personal well-being.
+Perfectionism:
+
+How This Impacts Me/Others:
+My perfectionism stalls progress, as I delay releases until everything is flawless, impacting innovation and revenue. I held back a resource hub for the agency, wanting it fully complete, and I’m doing the same with an app, tweaking features instead of launching. This missed a launch window, delaying £4,000 in potential revenue. My INTJ’s precision and high "Achievement" motivation fuel this, frustrating clients and slowing team momentum.
+
+ 
+
+Assessment Links & Details:
+
+My Temperament Assessment (INTJ) reflects a preference for precise and well-thought-out plans, which can sometimes evolve into perfectionistic tendencies.
+The emphasis on development and achievement in my Motivation at Work Assessment suggests that while striving for excellence is positive, it can also lead to over-analyzing details at the expense of timely decision-making.
+Commercial Awareness:
+
+How This Impacts Me/Others:
+Despite running multiple businesses, my commercial awareness lags, affecting strategic decisions and Apollo’s positioning. I missed a market trend last quarter, delaying a campaign and losing £3,000 in revenue. While I understand agency spaces, my Strengths Assessment flags this as a weakness, and my Reflective Realist style suggests I need structured learning to catch up. This gap limits our competitive edge.
+
+ 
+
+Assessment Links & Details:
+
+The Strengths Assessment focuses on my technical and analytical strengths, highlighting that while I excel in problem-solving and decision-making, commercial acumen is an area requiring further development.
+This challenge is also noted indirectly in my Learning Styles Assessment, where I benefit from structured, reflective learning—a method I could apply more to acquiring commercial knowledge.
+Networking Fatigue:
+
+How This Impacts Me/Others:
+I excel at networking but get exhausted and lose motivation to follow up, missing opportunities for Apollo. After over-networking last month, I couldn’t be bothered to talk to people, delaying follow-ups and losing 10 leads worth £2,000. My Active Changer style overextends me, and high "Recognition" motivation pushes me too hard. This slows team growth as I prioritize work over connections.
+
+ 
+
+Assessment Links & Details:
+
+While my Strengths Assessment underscores networking as a significant asset, my Learning Styles Assessment shows that being an “Active Changer” sometimes means overextending myself with new interactions, leading to fatigue.
+Additionally, the drive for achievement and recognition from my Motivation at Work Assessment can push me to overcommit in networking, resulting in energy depletion over time.
+Where do I want to get to?
+​​​​​​​Provide logical and challenging commitments for year 2, including an idea for your specialism, with insightful rationale for commitments. 
+
+ 
+
+
+Where do I want to get to? multi-line text editor.
+In Year 2, I aim to build a scalable AI outreach agency specializing in app development for businesses, particularly agencies, with integrated automation to streamline processes. My core commitment is to achieve 99% automation efficiency by year-end, automating app development, research, client onboarding, and operational workflows. This SMART goal—specific, measurable, achievable, relevant, and time-bound—follows a phased plan: Q1—automate coding frameworks; Q2—integrate research tools; Q3—streamline onboarding; Q4—optimize operations. This builds on my Year 1 technological adaptability, enhancing efficiency for agency clients.
+
+I will also expand our AI outreach agents across LinkedIn, Skool, and Discord to 100 fully operational agents by year-end, targeting a 30% increase in client acquisition. With milestones—25 agents in Q1, 50 in Q2, 75 in Q3, and full rollout by Q4—these agents will drive lead generation and partnerships, supporting my scalable agency vision. This leverages my Year 1 networking growth to connect with agency clients.
+
+Additionally, I’ll develop AI-powered applications—a resource hub, client onboarding dashboard, and process automation system—tailored for agencies to optimize their workflows. These tools will showcase our expertise in app development and automation, strengthening our market position and client value.
+
+These interlinked goals—efficient app development fueling automated outreach—drive sustainable growth. Grounded in Locke’s Goal-Setting Theory, their specificity and challenge will hone my leadership and innovation. Addressing my Year 1 delegation challenges, automation empowers my team, fostering Apollo’s collaborative culture. My specialism in app development for agencies positions us as industry leaders, reflecting my belief that success stems from strategic preparation and innovation, ensuring Apollo’s impact and scalability.
+
+Word count: 268 (Max 300)
+
+How will I get there?
+Consider resources, including relevant external resources.   
+Specify behaviours, habits, and standards you will adopt.   
+Consider the impact of behaviours, habits, and standards on others. 
+
+How will I get there? multi-line text editor.
+How will I get there? (499 words, Max 500)
+To achieve my Year 2 goals of building a scalable AI outreach agency specializing in app development for agencies with integrated automation, I’ll leverage targeted resources, adopt disciplined behaviors, and uphold high standards that drive personal and team success, inspired by Kolb’s Experiential Learning Cycle.
+
+Resources: I’ll tap into my network of over 1,000 niche agencies via platforms like Skool and events like AI Summit 2025, gaining insights into app development needs. Coursera’s “AI for Business” course and UWE’s Team Entrepreneurship workshops will enhance my technical and leadership skills, supporting my SMART Objective for 99% automation efficiency. Mentorship from industry leaders like Pranav (Localverse) and the module’s reading list (e.g., Knowles, 1975) will inform my automation strategies, aligning with my specialism.
+
+Behaviors, Habits, and Standards:
+
+Time Management: I’ll implement a Notion scheduler, capping work at 10 PM and allocating two hours daily for app development tasks, addressing my Year 1 time management struggles. Emma’s feedback urged this shift to prevent burnout.
+Delegation: To overcome delegation challenges, I’ll train interns like Sam on automation tasks weekly, empowering them to handle 30% of app development processes, supporting my SMART Objective for three AI applications.
+Self-Care: Committing to quitting smoking by 11 October 2024, I’ll adopt daily exercise (30-minute runs), healthy eating, and mindfulness (10-minute meditation), boosting stamina for leadership demands.
+Continuous Learning: I’ll dedicate two hours weekly to studying AI app development and automation via webinars and industry journals, ensuring cutting-edge solutions for agency clients.
+Standards: I’ll uphold transparency by sharing progress weekly with Apollo and accountability by meeting Q1–Q4 milestones (e.g., 25 AI agents by Q1), fostering trust and excellence.
+Impact on Others: These behaviors will transform Apollo’s culture. Improved time management and delegation will accelerate project delivery by 20%, enabling interns to take on high-value tasks and boosting team morale. My self-care habits, praised by Sam, will model resilience, inspiring team members to prioritize well-being. Continuous learning will spark innovation, with monthly “Tech Talks” sharing automation insights, enhancing team skills. Transparent updates and accountable milestones will strengthen client trust, increasing repeat contracts by 15%. Engaging with the entrepreneurial community will share app development strategies, fostering mutual growth and positioning Apollo as an industry leader.
+
+By strategically leveraging resources like AI Summit and UWE workshops, adopting disciplined behaviors, and maintaining transparent, accountable standards, I’ll achieve my Year 2 objectives while addressing past challenges. This approach, rooted in Kolb’s cycle, ensures I lead Apollo to success, empower my team, and enrich the agency ecosystem with innovative, automated solutions.
+
+Word count: 444 (Max 500)
+
+Competencies I will Develop
+List 6 competencies you will develop during year 2 to support you to reach "where I want to get to". Provide a rationale for the development of each competency.
+
+Competency
+Rationale for Development
+1. Self Awareness
+
+Rationale:
+Self-awareness is foundational for effective leadership in my Year 2 goal of scaling an AI outreach agency specializing in app development for agencies. Understanding my strengths (e.g., problem-solving) and challenges (e.g., delegation) ensures I make informed decisions for Apollo. In Year 1, my perfectionism delayed projects; self-awareness will help me mitigate this. I’ll develop this by journaling weekly, using Gibb’s Reflective Cycle (1988), and seeking monthly feedback from Emma, aligning with my SMART Objective for 99% automation efficiency by refining my leadership. Emma’s feedback noted my need for deeper self-reflection. This will empower Apollo’s team by fostering transparent decision-making, improving project delivery by 15%, and uphold our integrity. I’ll track progress via a Notion reflection log, ensuring my actions align with Apollo’s strategic goals and client trust.
+
+- Development Plan: Weekly journaling, monthly Emma feedback, UWE leadership workshop.
+- Team Impact: Enhances team trust, boosting delivery speed.
+- Year 1 Link: Addresses perfectionism (Where have I been?).
+
+2. Growth Mindset
+
+Rationale:
+A growth mindset is critical to navigate setbacks while scaling from 10 to 100 AI outreach agents, per my SMART Objective. Year 1’s networking fatigue taught me resilience; a growth mindset will build on this adaptability. I’ll develop this through Dweck’s (2006) principles, attending failure-focused webinars (e.g., FailCon 2025), and reflecting on setbacks biweekly, fostering innovation for agency app development. Matt’s feedback urged embracing challenges as learning opportunities. This will inspire Apollo’s team to innovate, increasing app feature rollouts by 20%, and promote a culture of continuous improvement. I’ll track progress via a failure log, ensuring sustainable growth and client-focused solutions.
+
+- Development Plan: FailCon 2025, biweekly reflection, UWE resilience seminar.
+- Team Impact: Boosts innovation, adding app features.
+- Year 1 Link: Builds on adaptability (Where have I been?).
+
+3. Collaboration
+
+Rationale:
+Collaboration is key to co-creating value in app development projects, supporting my SMART Objective for three AI applications. Year 1’s delegation struggles limited team growth; collaboration will address this by empowering interns. I’ll develop this via Tuckman’s (1965) team stages, leading biweekly app development sprints, and joining UWE’s Team Entrepreneurship ventures. Sam’s feedback highlighted my need for better team integration. This will streamline Apollo’s workflows, cutting project timelines by 10%, and foster a collaborative culture, enhancing client satisfaction. I’ll track progress through sprint retrospectives, ensuring transparent teamwork and Apollo’s reputation for excellence.
+
+- Development Plan: Biweekly sprints, UWE ventures, Coursera’s “Team Dynamics” course.
+- Team Impact: Shortens timelines, boosts satisfaction.
+- Year 1 Link: Addresses delegation (Where have I been?).
+
+4. Strategic Thinking and Planning
+
+Rationale:
+Strategic thinking is essential for scaling operations and achieving my SMART Objective for an AI resource hub. Year 1’s time management issues delayed deliverables; strategic planning will prioritize tasks. I’ll develop this using the Business Model Canvas (Osterwalder & Pigneur, 2010), attending AI Summit 2025, and leading quarterly scenario planning for app development. Emma’s feedback emphasized clearer long-term vision. This will enhance Apollo’s market positioning, increasing client acquisition by 15%, and ensure accountable planning. I’ll track progress via a Notion strategy dashboard, aligning with Apollo’s growth and client trust.
+
+- Development Plan: AI Summit 2025, quarterly planning, UWE strategy workshop.
+- Team Impact: Improves positioning, adds clients.
+- Year 1 Link: Addresses time management (Where have I been?).
+
+5. Ethical & Sustainable Practice
+
+Rationale:
+Committing to ethical and sustainable practices ensures my app development aligns with social and environmental responsibility, supporting my SMART Objective for 100 AI agents. Year 1’s commercial awareness gap risked misaligned priorities; this competency will guide client-focused decisions. I’ll develop this through UN Sustainable Development Goals training and a Coursera course on ethical AI, per Pranav’s feedback on responsible tech. This will build client trust by 15%, strengthening Apollo’s reputation, and promote sustainable workflows. I’ll track progress via a sustainability audit, ensuring ethical standards.
+
+- Development Plan: UN SDG training, Coursera ethical AI, monthly audits.
+- Team Impact: Enhances trust, sustainable workflows.
+- Year 1 Link: Addresses commercial awareness (Where have I been?).
+
+6. Sales & Marketing
+
+Rationale:
+Strong sales and marketing skills are vital to promote my agency’s apps and achieve a 30% client increase, per my SMART Objective. Year 1’s networking fatigue limited lead follow-ups; this competency will streamline outreach. I’ll develop this through Coursera’s “Sales Strategies” course, mentoring with Pranav, and leading LinkedIn campaigns, as Matt suggested. This will drive £20,000 in revenue for Apollo, enhancing team morale, and ensure transparent client engagement. I’ll track progress via CRM lead metrics, supporting Apollo’s market leadership.
+
+- Development Plan: Coursera course, Pranav mentoring, weekly LinkedIn campaigns.
+- Team Impact: Adds £20,000 revenue, boosts morale.
+- Year 1 Link: Addresses networking fatigue (Where have I been?).
+
+ACTION REQUIRED: List your SMART Objectives by selecting the 'SMART Objectives' tab to complete the Learning Contract assignment.
+
+Where did I reach? (Final Analysis)
+This is your final review of how you have managed your learning and development this year. To be completed for the final submission. 
+
+For instructions, review the marking criteria in the handbook. 
+
+
+Where did I reach? (Final Analysis) multi-line text editor.
+This section reflects on my journey in managing my learning and development over the past year, evaluating my SMART Objectives, critiquing my Learning Contract, and outlining targeted future plans. Supported by feedback from Emma, Sam, Matt, Jaymie, and Pranav, this analysis highlights my growth in self-leadership, team collaboration, and ethical innovation, with a detailed setback reflection using Gibb’s Reflective Cycle.
+
+SMART Objective Progress
+I set six SMART Objectives, achieving significant but varied outcomes:
+
+99% Automation Efficiency: Reached 85% automation in app development workflows, missing the target due to a Q3 setback (see below). This saved 20 hours weekly, reducing manual tasks by 70%.
+100 AI Outreach Agents: Deployed 75 agents across LinkedIn, Skool, and Discord, yielding 150 leads (target: 200). Matt suggested faster scaling, but resource limits hindered Q4 progress.
+Three AI Applications: Completed two apps (resource hub, onboarding dashboard), with the third (sales automation) at 80%. Sam highlighted the dashboard’s 30% reduction in onboarding time.
+Health-Focused Lifestyle: Quit smoking by 11 October 2024 but faltered on exercise consistency. Emma noted sharper focus yet stressed better balance.
+AI Resource Hub: Launched successfully, serving 50 agency clients and boosting retention by 15%. Pranav called it a game-changer for automation.
+30% Client Acquisition Increase: Hit 25% growth, adding 10 clients (£50,000 revenue). Jaymie recommended bolder Q4 sales tactics.
+Learning Moments and Setback Analysis
+In Q3, an automation tool crashed, delaying a client app by two weeks and incurring £3,000 in penalties. I applied Gibb’s Reflective Cycle (1988) to dissect this:
+
+Description: A script error triggered app failures during testing.
+Feelings: Felt frustrated and anxious, sensing team tension rise.
+Evaluation: Exposed weak testing processes and over-reliance on myself.
+Analysis: My perfectionism stalled swift fixes; delegation could have caught it earlier.
+Conclusion: Robust testing and intern empowerment were critical gaps.
+Action Plan: Introduced biweekly code reviews and trained Sam on testing, averting further issues.
+This reinforced resilience and delegation, echoing Dweck’s Growth Mindset (2006), which I leveraged to enhance team agility.
+
+Behavioral Shifts
+I adopted key habits to drive success:
+
+Time Management: Used a Notion scheduler, ending work by 10 PM, lifting productivity 20%. Emma saw less burnout.
+Delegation: Shifted 40% of app tasks to interns, slashing delays by 15%. Sam valued his expanded role.
+Self-Care: Quit smoking and practiced mindfulness, improving focus 25%. Jaymie noted a morale lift.
+Continuous Learning: Finished Coursera’s “AI for Business,” refining automation tactics. Pranav linked this to client wins.
+These changes, rooted in Kolb’s Experiential Learning Cycle, sharpened my leadership and Apollo’s efficiency.
+
+Team Impact
+My progress uplifted the team:
+
+Productivity: Automation and delegation sped up projects by 20%, delivering three apps on schedule.
+Morale: Self-care and empowerment raised intern engagement by 15%.
+Client Trust: Ethical AI (aligned with UN SDGs) and transparency increased trust by 10%, earning £20,000 in repeat business.
+Innovation: Monthly “Tech Talks” sparked two app features, boosting creativity.
+Reflection on Learning Contract
+Revisiting “Where do I want to get to?” (scaling an AI agency), I’d adjust:
+
+Earlier Delegation: Assign 20% more tasks in Q1 to hit automation goals sooner.
+Commercial Focus: Integrate market analysis in Q1 to close Year 1’s awareness gap.
+For “How will I get there?”, I’d:
+
+Add UWE Workshops: Join “AI Ethics” for stronger ethical grounding.
+Mentor Earlier: Tap Pranav in Q1 for sales insights.
+These tweaks, informed by Year 2, would sharpen efficiency and alignment.
+
+Future Plans
+For Year 3, I’ll:
+
+Implement N8N: Automate the final 15% of workflows, hitting 99% efficiency.
+Train Interns on App Dev: Enable Sam and others to own 50% of app projects.
+Target 20% More Clients: Launch LinkedIn campaigns for 12 new clients (£60,000 revenue).
+These steps build on delegation and resilience, ensuring sustainable growth.
+
+Conclusion
+I’ve surpassed key milestones—85% automation, two AI apps, 25% client growth—while tackling setbacks with reflection and adaptation. Feedback from Emma, Sam, Matt, Jaymie, and Pranav affirmed my strides, and my ethical focus elevated Apollo’s standing. This groundwork, blending strategic learning and team empowerment, primes me to lead Apollo’s next chapter of innovation and impact.
+
+Word count: 685 (Max 800)
+
+Loading - 07:25:14

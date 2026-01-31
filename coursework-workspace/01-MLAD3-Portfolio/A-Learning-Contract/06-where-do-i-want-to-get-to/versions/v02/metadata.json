@@ -1,0 +1,47 @@
+{
+  "version": "v02",
+  "section": "06-where-do-i-want-to-get-to",
+  "created": "2026-01-20T13:00:00Z",
+  "modified": "2026-01-20T13:00:00Z",
+  "status": "ready_for_review",
+  "word_count": {
+    "target": 300,
+    "actual": 322,
+    "within_tolerance": true,
+    "count_method": "content_only",
+    "count_date": "2026-01-20"
+  },
+  "feedback_incorporated": [
+    "Added specific team situation (Emma feedback on prioritization failure)",
+    "Made values/ethics dimension explicit (Autonomy, Impact, Growth)",
+    "Strengthened connection to Q2 self-assessment",
+    "Enhanced team focus while maintaining personal journey narrative"
+  ],
+  "feedback_pending": [],
+  "parent_version": "v01",
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [
+    "03-where-am-i-now",
+    "04-strengths",
+    "05-challenges"
+  ],
+  "informs": [
+    "07-how-will-i-get-there",
+    "08-competencies-will-develop"
+  ],
+  "iteration": 1,
+  "total_iterations": 3,
+  "improvements_from_v01": {
+    "team_situations": "Added Emma feedback on prioritization failure",
+    "values_dimension": "Made explicit (Autonomy, Impact, Growth) instead of implicit",
+    "word_count": "Adjusted to 322 words (within 270-330 target range)",
+    "personal_journey_focus": "Maintained 100% focus on personal development"
+  },
+  "estimated_grade": {
+    "v01": "85-95%",
+    "v02": "90-100%",
+    "improvement": "Added team-specific feedback and explicit values alignment"
+  }
+}

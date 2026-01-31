@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("AdsMgmt2025H2JewelUnreadsToggleExperimentUtils",["AdsMgmtJewelExperimentUtils","justknobx","qex"],(function(t,n,r,o,a,i,l){"use strict";function e(){return r("justknobx")._("4954")&&o("AdsMgmtJewelExperimentUtils").getIsUserInAMDPage()&&u(!0)}function s(){return r("justknobx")._("4954")&&o("AdsMgmtJewelExperimentUtils").getIsUserInAMDPage()&&u(!1)}function u(e){return e?r("qex")._("915")===!0:r("qex")._("972")===!0}l.getUserShouldSeeJewelUnreadsToggleWithExposure=e,l.getUserShouldSeeJewelUnreadsToggleNoExposure=s}),98);

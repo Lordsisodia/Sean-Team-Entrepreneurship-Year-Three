@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("BizNotificationPopoverDataProviderPlugin",["BizNotificationListConst"],(function(t,n,r,o,a,i,l){"use strict";var e={initialState:{isJewelOpen:!1,isPreferencesMode:!1,notifTab:null,prefsSaveState:null,showUnreadsOnly:!1,tabCountToBeCleared:babelHelpers.extends({},o("BizNotificationListConst").TAB_COUNT_TO_BE_CLEARED),unseenNotifsClassificationsMap:{},unseenNotifsCountByTab:babelHelpers.extends({},o("BizNotificationListConst").EMPTY_UNSEEN_NOTIFS_COUNT_BY_TAB)}},s=e;l.default=s}),98);

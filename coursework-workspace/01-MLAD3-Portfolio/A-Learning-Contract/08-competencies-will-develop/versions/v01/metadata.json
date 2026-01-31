@@ -1,0 +1,58 @@
+{
+  "version": "v01",
+  "section": "08-competencies-will-develop",
+  "created": "2026-01-20T08:00:00Z",
+  "modified": "2026-01-20T10:30:00Z",
+  "status": "ready_for_review",
+  "word_count": {
+    "target": "300-600",
+    "actual": 550,
+    "within_tolerance": true,
+    "count_method": "markdown",
+    "count_date": "2026-01-20"
+  },
+  "changes_in_version": [
+    "Rebalanced to 2-2-2 competency mix (venture/team/academic)",
+    "Replaced all Team Apollo references with actual team members",
+    "Added values/ethics dimension to each competency",
+    "Condensed content from 937 to ~550 words",
+    "Removed tracking table and timeline sections"
+  ],
+  "competencies": {
+    "venture": [
+      "Strategic Leadership",
+      "Service Design & Delivery"
+    ],
+    "team": [
+      "Professional Communication",
+      "Financial Management"
+    ],
+    "academic": [
+      "Academic Rigor",
+      "Critical Thinking"
+    ]
+  },
+  "feedback_incorporated": [],
+  "feedback_pending": [],
+  "parent_version": null,
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [
+    "07-how-will-i-get-there"
+  ],
+  "informs": [],
+  "agent_work": {
+    "started": true,
+    "prompts_completed": 1,
+    "prompts_total": 1,
+    "last_prompt": "LC:8 v2.0 - Complete rewrite",
+    "agent_task_md_exists": true,
+    "phases_completed": [
+      "PHASE 1: Analysis",
+      "PHASE 2: Planning",
+      "PHASE 3: Execution",
+      "PHASE 4: Review"
+    ]
+  }
+}

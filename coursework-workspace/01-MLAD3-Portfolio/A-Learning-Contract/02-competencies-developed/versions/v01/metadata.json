@@ -1,0 +1,29 @@
+{
+  "version": "v01",
+  "section": "02-competencies-developed",
+  "created": "2026-01-20T08:00:00Z",
+  "modified": "2026-01-20T08:00:00Z",
+  "status": "draft",
+  "word_count": {
+    "target": 0,
+    "actual": 810,
+    "within_tolerance": true,
+    "count_method": "markdown",
+    "count_date": "2026-01-20"
+  },
+  "feedback_incorporated": [],
+  "feedback_pending": [],
+  "parent_version": null,
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [],
+  "informs": [],
+  "agent_work": {
+    "started": false,
+    "prompts_completed": 0,
+    "prompts_total": 20,
+    "last_prompt": null,
+    "agent_task_md_exists": false
+  }
+}

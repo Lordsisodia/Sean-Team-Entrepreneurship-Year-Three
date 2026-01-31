@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("BusinessManagerNotificationSync",["invariant","Arbiter","ChannelConstants","ifRequired"],(function(t,n,r,o,a,i,l,s){"use strict";var e=0;function u(){var e={endpointControllerName:"BusinessManagerNotificationsPayloadPagelet"},t;if(r("ifRequired")("NotificationStore",function(n){t=Object.values(n.getAll(e))}),t==null)return null;var n=t.map(function(e){return e.creation_time}).filter(Boolean);return n.length===0?null:Math.max.apply(Math,n)}function c(){var e=u();e!=null&&s(0,54190)}var d=null,m=0;function p(t){m++,(e===null||t>e)&&(e=t),d==null&&(d=r("Arbiter").subscribe(o("ChannelConstants").ON_INVALID_HISTORY,c));var n=!1;return{remove:function(){n!==!0&&(d!=null||s(0,51),n=!0,m--,m===0&&(d.unsubscribe(),d=null))}}}l.setup=p}),98);

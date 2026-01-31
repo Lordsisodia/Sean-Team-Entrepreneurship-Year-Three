@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("BizNotificationJewelOnboardingNuxTourConfig",["AdsNuxTourNextStepClickedDataAction","Arbiter"],(function(t,n,r,o,a,i,l){"use strict";var e=!1,s=!1,u=null,c=!1,d="avg_notification_subcategory_onboarding_gm_tip";r("Arbiter").subscribe("notificationJewel/opened",function(){c&&(r("AdsNuxTourNextStepClickedDataAction").dispatch({},{line:"25",module:"BizNotificationJewelOnboardingNuxTourConfig.js",moduleID:i.id}),c=!0)}),l.BIZ_NOTIF_ONBOARDING_TOUR_ID=d}),98);

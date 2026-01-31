@@ -3,8 +3,8 @@
 **Learning Contract Question:** Q4
 **PebblePad Location:** Q4 - How will I get there?
 **Target Word Count:** 500 words (safe zone: 450-550)
-**Current Version:** v01
-**Status: Initial setup
+**Current Version:** v02
+**Status:** Ready for submission
 
 ---
 
@@ -53,7 +53,7 @@ This main section works with:
 - Minimum: 450 words
 - Maximum: 550 words
 - Target: 500 words
-- Current actual: TBD
+- Current actual: 470 words (v02)
 
 ---
 
@@ -172,7 +172,8 @@ For Q4 specifically, this means:
 
 | Version | Date | Word Count | Status | Notes |
 |---------|------|------------|--------|-------|
-| v01 | TBD | TBD | Draft | Initial setup |
+| v01 | 2026-01-20 | 1,896 | Draft | Initial draft - Venture-heavy (0-0.5-5.5 imbalance) |
+| v02 | 2026-01-20 | 470 | Ready | 2-2-2 balance, values-integrated, team situations added |
 
 ---
 

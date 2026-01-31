@@ -11,12 +11,12 @@
 
 | # | Competency | Current Level | Target Level | Connected Objective |
 |---|------------|---------------|--------------|---------------------|
-| 1 | Strategic Leadership | Delegating poorly | Developing others through effective delegation | Objective 3 (1,000 partnerships) |
-| 2 | Professional Communication | Good technical, weak influence | Influencing stakeholders strategically | Objective 6 (80% adoption) |
-| 3 | Service Design & Delivery | Zero partnerships | Creating value propositions at scale | Objective 2 (100 partnerships) |
-| 4 | Financial Management | Systems focus, no revenue | Strategic financial planning | Objective 4 (£5K/month) |
-| 5 | Self-Management | Inefficient prioritization | Effective personal organization | Objective 5 (80% alignment) |
-| 6 | Entrepreneurial Judgment | Poor prioritization | Strategic decisions under uncertainty | Objective 1 (complete apps) |
+| 1 | Strategic Leadership | Delegating poorly | Developing others through effective delegation | Sam managing 50+ partnerships by March |
+| 2 | Professional Communication | Good technical, weak influence | Influencing stakeholders strategically | 80% team adoption by February |
+| 3 | Service Design & Delivery | Zero partnerships | Creating value propositions at scale | 100 validated partnerships by January |
+| 4 | Financial Management | Systems focus, no revenue | Strategic financial planning | £5K+ MRR by December |
+| 5 | Self-Management | Inefficient prioritization | Effective personal organization | 80% time alignment with strategic priorities |
+| 6 | Entrepreneurial Judgment | Poor prioritization | Strategic decisions under uncertainty | Partnership/client apps completed by December |
 
 ---
 
@@ -60,12 +60,12 @@ Each Competency Undertaking should follow this structure:
 
 Each competency has its own file:
 
-1. **[Competency-1-Strategic-Leadership.md](./Competency-1-Strategic-Leadership.md)** - Delegation & developing others
-2. **[Competency-2-Professional-Communication.md](./Competency-2-Professional-Communication.md)** - Influence & stakeholder management
-3. **[Competency-3-Service-Design-Delivery.md](./Competency-3-Service-Design-Delivery.md)** - Partnership value propositions
-4. **[Competency-4-Financial-Management.md](./Competency-4-Financial-Management.md)** - Revenue & financial planning
-5. **[Competency-5-Self-Management.md](./Competency-5-Self-Management.md)** - Prioritization & time management
-6. **[Competency-6-Entrepreneurial-Judgment.md](./Competency-6-Entrepreneurial-Judgment.md)** - Strategic decision-making
+1. **[Competency-01-Strategic-Leadership.md](./Competency-01-Strategic-Leadership.md)** - Delegation & developing others
+2. **[Competency-02-Professional-Communication.md](./Competency-02-Professional-Communication.md)** - Influence & stakeholder management
+3. **[Competency-03-Service-Design-Delivery.md](./Competency-03-Service-Design-Delivery.md)** - Partnership value propositions
+4. **[Competency-04-Financial-Management.md](./Competency-04-Financial-Management.md)** - Revenue & financial planning
+5. **[Competency-05-Self-Management.md](./Competency-05-Self-Management.md)** - Prioritization & time management
+6. **[Competency-06-Entrepreneurial-Judgment.md](./Competency-06-Entrepreneurial-Judgment.md)** - Strategic decision-making
 
 ---
 
@@ -142,4 +142,4 @@ For 90-100% (Outstanding) on Competency Undertakings:
 
 ---
 
-**Status:** ⏳ Guide complete; individual undertaking files need creation
+**Status:** ✅ Guide reverted; all files now match PebblePad Learning Contract

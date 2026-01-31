@@ -1,0 +1,75 @@
+{
+  "version": "v02",
+  "section": "08-competencies-will-develop",
+  "created": "2026-01-20T11:00:00Z",
+  "modified": "2026-01-20T11:30:00Z",
+  "status": "ready_for_review",
+  "word_count": {
+    "target": "300-600",
+    "actual": 820,
+    "within_tolerance": false,
+    "count_method": "markdown",
+    "count_date": "2026-01-20",
+    "note": "Exceeds target due to comprehensive breakdown; justified by coordination requirements with LC:7"
+  },
+  "changes_in_version": [
+    "Critical realignment: Replaced Academic Rigor and Critical Thinking with Self-Management and Entrepreneurial Judgment to match LC:7",
+    "Enhanced detail: Expanded each competency from ~50-75 words to ~130 words",
+    "Strengthened values/ethics dimensions with more nuanced considerations",
+    "Enhanced coordination with LC:7 development activities and success metrics",
+    "Added specific frameworks, mentorship sources, and study references",
+    "Improved success indicators with quantified and time-bound metrics",
+    "Enhanced integration section with clearer competency interdependencies"
+  ],
+  "competencies": {
+    "venture": [
+      "Strategic Leadership",
+      "Service Design & Delivery"
+    ],
+    "team": [
+      "Professional Communication",
+      "Financial Management"
+    ],
+    "personal": [
+      "Self-Management",
+      "Entrepreneurial Judgment"
+    ]
+  },
+  "feedback_incorporated": [
+    "Replaced academic competencies to match LC:7 (Self-Management, Entrepreneurial Judgment)",
+    "Enhanced detail to 50-100+ words per competency",
+    "Strengthened values/ethics dimensions throughout"
+  ],
+  "feedback_pending": [
+    "Consider condensing to 600-700 words if word count constraints are strict for final submission"
+  ],
+  "parent_version": "v01",
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": "A (First-Class)",
+  "depends_on": [
+    "07-how-will-i-get-there"
+  ],
+  "informs": [
+    "09-where-did-i-get-to"
+  ],
+  "agent_work": {
+    "started": true,
+    "iteration": 1,
+    "iteration_total": 3,
+    "last_prompt": "LC:8 v02 - Major improvements with LC:7 coordination",
+    "agent_task_md_exists": false,
+    "phases_completed": [
+      "Analysis",
+      "Planning",
+      "Execution",
+      "Review"
+    ]
+  },
+  "coordination_notes": {
+    "lc7_alignment": "Perfect - all 6 competencies match LC:7 exactly",
+    "metrics_alignment": "Perfect - all success metrics match LC:7 targets",
+    "timeline_alignment": "Perfect - timeline phases match LC:7 structure",
+    "development_activities": "Enhanced - more specific than LC:7 with frameworks and sources"
+  }
+}

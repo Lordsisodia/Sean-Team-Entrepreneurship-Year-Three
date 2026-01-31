@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "ef20fbbb0f4436ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90dcad4ad228559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68eeac4b28d24495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-01-Strategic-Priority-Correction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LbD-01-Strategic-Priority-Correction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75aaf9e841b5fd64",
+    "type": "split",
+    "children": [
+      {
+        "id": "282ab1fe03bb3dc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50f053a7550f8b07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27b07a65a9bbc789",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54488a39912810da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01c532980610c3ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "b73ef2389e3fc1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af68e129678679ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-01-Strategic-Priority-Correction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LbD-01-Strategic-Priority-Correction"
+            }
+          },
+          {
+            "id": "21354b2c09f141b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-01-Strategic-Priority-Correction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LbD-01-Strategic-Priority-Correction"
+            }
+          },
+          {
+            "id": "6a1324efad1faeeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70bc9b109bdba399",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "46b335076b4c9e35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-01-Strategic-Priority-Correction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LbD-01-Strategic-Priority-Correction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "68eeac4b28d24495",
+  "lastOpenFiles": [
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/PEBBLEPAD-COPY-GUIDE.md",
+    "Year One Coursework/Y1-Portfolio-of-Enquiry.md",
+    "Year One Coursework/Y1-Portfolio-of-Practice.md",
+    "Year One Coursework/Y1-Reflection-on-Managing-My-Learning-and-Development.md",
+    "Year One Coursework/Y1-Learning-Contract-MMLaD.md",
+    "Year One Coursework",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/EVIDENCE-INDEX.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/05-challenges/versions/v06/metadata.json",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/05-challenges/versions/v06/draft.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/05-challenges/versions/v06",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-06-Construction-Deal-Collapse.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-05-Difficult-Client-Management.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-04-Delegation-to-Sam.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-03-Partnership-Validation.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-02-Ecommerce-Client-Delivery.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/LbD-01-Restaurant-to-Ecommerce-Pivot.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v06/metadata.json",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v06/draft.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v06",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/SISO-TASKS-COMPLETE-CATEGORIZATION.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/TASK-CATEGORIZATION-WORKSPACE.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v05/metadata.json",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v05/draft.md",
+    "coursework-workspace/01-MLAD3-Portfolio/A-Learning-Contract/04-strengths/versions/v05",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/MAINTENANCE-GUIDE.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-06-partnership-scaling.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-05-client-app-mvp.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-04-outreach-automation.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-03-sam-content.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-02-cannabis-free.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives/objective-01-time-blocking-app.md",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/objectives",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/setup-smart-databases.py",
+    "coursework-workspace/01-MLAD3-Portfolio/B-SMART-Objectives/NOTION-INTEGRATION-PLAN.md",
+    "coursework-workspace/01-MLAD3-Portfolio/F-Undertakings/LbD-Undertakings/00-LbD-Undertakings-Guide.md"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "version": "v01",
+  "section": "06-where-do-i-want-to-get-to",
+  "created": "2026-01-20T08:00:00Z",
+  "modified": "2026-01-20T12:45:00Z",
+  "status": "ready_for_review",
+  "word_count": {
+    "target": 300,
+    "actual": 297,
+    "within_tolerance": true,
+    "count_method": "content_only",
+    "count_date": "2026-01-20"
+  },
+  "feedback_incorporated": [
+    "Word count reduced from 735 to 297 words",
+    "Business plan content removed (market opportunity, revenue model, competitive landscape)",
+    "Personal 'why' added to vision paragraph",
+    "Content focused on personal journey rather than venture description"
+  ],
+  "feedback_pending": [],
+  "parent_version": null,
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [
+    "03-where-am-i-now",
+    "04-strengths",
+    "05-challenges"
+  ],
+  "informs": [
+    "07-how-will-i-get-there",
+    "08-competencies-will-develop"
+  ],
+  "agent_work": {
+    "started": true,
+    "prompts_completed": 1,
+    "prompts_total": 1,
+    "last_prompt": "autonomous_5_phase_rewrite_v2",
+    "agent_task_md_exists": true,
+    "rewrite_summary": {
+      "original_word_count": 735,
+      "final_word_count": 297,
+      "words_cut": 438,
+      "paragraphs_deleted": 3,
+      "paragraphs_condensed": 1,
+      "paragraphs_added_personal_why": 1
+    }
+  }
+}

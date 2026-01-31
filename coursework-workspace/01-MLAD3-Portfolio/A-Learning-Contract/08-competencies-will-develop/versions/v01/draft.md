@@ -1,152 +1,175 @@
-# Competencies I Will Develop (Year 3)
+# Section 08: Competencies I Will Develop
 
-**From Q4 Learning Contract**
-**Last Updated:** January 20, 2026
-
----
-
-## 📋 6 COMPETENCIES TO DEVELOP IN YEAR 3
-
-### 1. Strategic Leadership
-
-**Rationale for Development:**
-
-To overcome my delegation resistance challenge, I must develop Strategic Leadership competency, specifically "developing others through effective delegation and team development" (UWE, 2024, TE Competency Framework). My tendency to think "I'll spend more time explaining than doing it myself" prevents team scaling and limits my focus on high-value strategic work. The 1,000 partnership goal requires team leverage - I cannot personally manage this scale.
-
-**Development Plan:**
-- Weekly structured delegation sessions with Sam using coaching frameworks from TE workshops
-- Monthly team capability assessments
-- Mentorship from TE Programme leader on leadership practices
-
-**Success Metric:**
-Sam independently managing 50+ partnerships by March 2026
+> Detailed breakdown of the six competencies selected for development during Q4, aligned to my learning objectives and development activities.
 
 ---
 
-### 2. Professional Communication
+## Overview
 
-**Rationale for Development:**
+I have selected six competencies for focused development during Q4 (January–March 2025). These are deliberately balanced across three domains:
 
-To address team leadership implementation challenges, I must develop Professional Communication competency: "influencing stakeholders through strategic communication and relationship management" (UWE, 2024). Providing technical direction without ensuring adoption reveals weakness in influence capability. Leadership requires both expertise AND ability to inspire action.
+- **2 Venture Competencies** - Directly supporting business growth
+- **2 Team Competencies** - Strengthening collaborative effectiveness
+- **2 Academic Competencies** - Grounding decisions in evidence and critical analysis
 
-**Development Plan:**
-- Communication skills training focused on influence and adoption (external course)
-- Recording and reviewing team interactions for improvement
-- Active participation in TE communication workshops
-
-**Success Metric:**
-Team Apollo adoption rate of my recommendations increases from current 40% to 80% by February 2026
+Each competency links explicitly to my Q4 development activities and includes measurable success indicators.
 
 ---
 
-### 3. Service Design & Delivery
+## 1. Strategic Leadership (Venture)
 
-**Rationale for Development:**
+### Why This Competency?
 
-To address zero current agency partnerships despite 1,000 partnership goal, I must develop Service Design & Delivery competency: "creating and delivering value propositions that meet customer needs at scale" (UWE, 2024). This represents critical gap between vision and capability.
+Leading a multi-stakeholder partnership venture requires transitioning from founder to strategic leader. I must delegate operational responsibility to Sam whilst maintaining strategic coherence across the partnership network.
 
-**Development Plan:**
-- Partnership development mentorship from experienced SaaS scalers
-- Systematic testing with 10 pilot agencies in Q1
-- Iteration based on partner feedback
-- Applying service design frameworks from EiEaE3 module
+### Values & Ethics Dimension
 
-**Success Metric:**
-100 validated partnerships by January 2026, proving model before full-scale launch
+Leadership in this context centres on ethical delegation—empowering Sam with genuine decision-making authority whilst retaining accountability for venture outcomes. This requires transparent communication about expectations, regular check-ins to provide support without micromanagement, and creating space for Sam to shape the operational direction.
 
----
+### Development Activities
 
-### 4. Financial Management
+- **Delegation Framework**: Documenting clear boundaries between strategic oversight and operational execution
+- **Structured Updates**: Weekly strategic alignment sessions with Sam, focusing on blockers rather than task management
+- **Decision Authority**: Explicitly delegating partnership operational decisions within agreed parameters
 
-**Rationale for Development:**
+### Success Indicators
 
-To overcome revenue generation delay (avoiding "couple grand a month" targets), I must develop Financial Management competency: "strategic financial planning and resource allocation for growth" (UWE, 2024). Current focus on systems optimization without revenue pursuit creates sustainability risks and may miss market timing during AI industry evolution.
-
-**Development Plan:**
-- Financial modeling for partnership revenue streams
-- Working with TE Finance mentor on pricing strategy and unit economics
-- Creating financial dashboard for tracking progress
-
-**Success Metric:**
-Systematic testing generating £5K+ monthly by December 2025, validating model economics before partnership scaling
+- Sam independently managing partnership operations with proactive escalation only when required
+- Strategic review meetings focusing on direction rather than task status
+- Documented delegation framework referenced and refined through practice
 
 ---
 
-### 5. Self-Management
+## 2. Service Design & Delivery (Venture)
 
-**Rationale for Development:**
+### Why This Competency?
 
-To address time management across multiple projects challenge, I must develop Self-Management competency: "effective personal organization and priority management in complex environments" (UWE, 2024). Currently managing internal app development, client work, partnerships, and academic requirements without systematic prioritization creates inefficiency and delays.
+Designing value propositions that serve both students and businesses requires systematic service design thinking. I need to move beyond intuitive offerings to evidence-backed service models that create measurable mutual value.
 
-**Development Plan:**
-- Implementing time-blocking system via internal app completion (by November 1)
-- Weekly priority reviews against exit strategy objectives
-- Applying productivity frameworks from TE workshops
+### Values & Ethics Dimension
 
-**Success Metric:**
-80% time allocation alignment with strategic priorities, measured weekly via time tracking data
+Service design grounded in co-creation ensures we design with, not for, our users. This means actively seeking input from student partners and business clients, recognising power dynamics in consultation processes, and iterating based on genuine feedback rather than assumptions.
 
----
+### Development Activities
 
-### 6. Entrepreneurial Judgment
+- **Service Mapping**: Creating end-to-end journey maps for student and business partner experiences
+- **Value Proposition Design**: Using frameworks to articulate and test mutual value hypotheses
+- **Prototype Testing**: Running small-scale service pilots with structured feedback loops
 
-**Rationale for Development:**
+### Success Indicators
 
-To strengthen app development priority management (6 weeks on internal app while client/partnership apps incomplete), I must develop Entrepreneurial Judgment competency: "making strategic decisions about resource allocation under uncertainty" (UWE, 2024). This requires balancing immediate needs against long-term infrastructure investment, recognizing opportunity costs.
-
-**Development Plan:**
-- Weekly strategic review of project priorities against exit strategy timeline
-- Mentorship from successful entrepreneurs on resource allocation decisions
-- Applying decision-making frameworks from RaLO3 module
-
-**Success Metric:**
-Partnership/client apps completed by December 2025, enabling Q1 2026 partnership launch on schedule
+- Documented service blueprints identifying pain points and opportunity areas
+- Tested value proposition canvases validated by early partners
+- Iteration log showing service refinements based on partner input
 
 ---
 
-## 📊 COMPETENCY DEVELOPMENT TRACKING
+## 3. Professional Communication (Team)
 
-| Competency | Current Level | Target Level | Success Metric | Status |
-|------------|---------------|--------------|----------------|--------|
-| **Strategic Leadership** | Delegating poorly | Developing others | Sam: 50+ partnerships by Mar | 🔴 |
-| **Professional Communication** | Weak influence | Influencing stakeholders | 80% adoption by Feb | ⏳ (40% → 80%) |
-| **Service Design & Delivery** | Zero partnerships | Value propositions at scale | 100 partnerships by Jan | 🔴 |
-| **Financial Management** | No revenue | Strategic financial planning | £5K+ MRR by Dec | 🔴 |
-| **Self-Management** | Inefficient | Effective organization | 80% alignment by Nov | ⏳ |
-| **Entrepreneurial Judgment** | Poor prioritization | Strategic decisions | Apps complete by Dec | 🔴 OVERDUE |
+### Why This Competency?
 
----
+Working with Sam, Leo, David, and Harry requires adapting communication styles across different contexts—operations, strategy, and stakeholder engagement. I must develop influence skills that align team members without formal authority.
 
-## 🔗 CONNECTIONS TO SMART OBJECTIVES
+### Values & Ethics Dimension
 
-Each competency directly supports a SMART objective:
+Ethical communication means practising active listening, particularly when perspectives differ. It involves acknowledging the expertise others bring, being transparent about constraints and uncertainties, and building consensus through genuine dialogue rather than persuasion tactics.
 
-| Competency | Connected Objective | How It Supports |
-|------------|---------------------|-----------------|
-| Strategic Leadership | Objective 3: 1,000 partnerships | Enables scaling through Sam's management |
-| Professional Communication | Objective 6: 80% team adoption | Improves recommendation implementation |
-| Service Design & Delivery | Objective 2: 100 partnerships | Creates agency value propositions |
-| Financial Management | Objective 4: £5K MRR | Validates revenue model |
-| Self-Management | Objective 5: 80% time alignment | Ensures strategic priority focus |
-| Entrepreneurial Judgment | Objective 1: Complete apps | Prevents priority mistakes |
+### Development Activities
+
+- **Stakeholder Mapping**: Analyzing communication preferences and information needs across the team
+- **Structured Communication**: Preparing for key conversations with clear objectives and anticipated questions
+- **Feedback Loops**: Establishing regular check-ins focused on mutual understanding and alignment
+
+### Success Indicators
+
+- Documented communication preferences for Sam, Leo, David, and Harry
+- Preparation frameworks used for strategic conversations
+- Reduced misunderstandings evidenced by fewer clarification conversations
 
 ---
 
-## 🎯 DEVELOPMENT PRIORITY TIMELINE
+## 4. Financial Management (Team)
 
-**October-November 2025 (Foundation Building):**
-- Service Design & Delivery: Pilot with 10 agencies
-- Financial Management: Build dashboard, start testing
-- Self-Management: Implement time-blocking, track alignment
+### Why This Competency?
 
-**December 2025-February 2026 (Scaling What Works):**
-- Strategic Leadership: Accelerate Sam delegation
-- Professional Communication: Increase adoption through influence skills
+Deploying team resources (people, time, money) across ventures requires financial literacy beyond basic budgeting. I need to develop understanding of cash flow, investment decisions, and resource optimisation within a multi-venture portfolio.
 
-**March-April 2026 (Full Execution):**
-- All competencies integrated and firing
-- Entrepreneurial Judgment refined through hundreds of real decisions
+### Values & Ethics Dimension
+
+Ethical financial stewardship means making allocation decisions transparently, with clear rationale communicated to the team. It involves balancing venture needs fairly, avoiding over-commitment to high-risk opportunities, and maintaining reserves for sustainability.
+
+### Development Activities
+
+- **Financial Modelling**: Building cash flow projections for partnership ventures
+- **Portfolio Analysis**: Mapping resource allocation across ventures to identify optimisation opportunities
+- **Decision Frameworks**: Creating rubrics for investment decisions considering risk, return, and strategic alignment
+
+### Success Indicators
+
+- Working financial models used to inform venture decisions
+- Documented allocation rationale for major resource deployments
+- Portfolio review process identifying efficiency improvements
 
 ---
 
-**Source:** PebblePad Learning Contract - Competencies to Develop in Year 3
+## 5. Academic Rigor (Academic)
+
+### Why This Competency?
+
+Bridging academic study with venture practice requires grounding decisions in published research rather than intuition. I need to develop skills in locating, evaluating, and applying evidence to real-world business challenges.
+
+### Values & Ethics Dimension
+
+Academic integrity in practice means acknowledging the limits of available evidence, avoiding confirmation bias by seeking disconfirming data, and crediting sources appropriately when applying research insights to venture decisions.
+
+### Development Activities
+
+- **Literature Review**: Conducting systematic reviews of research on partnership models, service design, and strategic leadership
+- **Evidence Application**: Annotating venture decisions with relevant research citations
+- **Critical Evaluation**: Assessing methodological quality and applicability of studies to our context
+
+### Success Indicators
+
+- Annotated bibliography of research informing venture strategy
+- Decision memos referencing relevant academic evidence
+- Critical appraisal skills demonstrated through research-informed recommendations
+
+---
+
+## 6. Critical Thinking (Academic)
+
+### Why This Competency?
+
+Evaluating venture opportunities, team dynamics, and strategic options requires structured analytical thinking. I must develop frameworks for questioning assumptions, identifying cognitive biases, and making reasoned judgments under uncertainty.
+
+### Values & Ethics Dimension
+
+Ethical critical thinking involves examining our own positions of privilege and how these shape decision-making. It means seeking out diverse perspectives, particularly those likely to be marginalised, and being willing to reconsider deeply-held assumptions in light of new evidence.
+
+### Development Activities
+
+- **Analytical Frameworks**: Applying structured decision-making tools to strategic choices
+- **Bias Awareness**: Regular reflection exercises identifying potential cognitive biases in team decisions
+- **Scenario Analysis**: Conducting pre-mortems and what-if analysis on major strategic decisions
+
+### Success Indicators
+
+- Documented decision frameworks applied to Q4 strategic choices
+- Reflection journal identifying biases and mitigation strategies
+- Scenario analysis outputs informing risk management
+
+---
+
+## Integration with Q4 Development
+
+These competencies form an integrated development portfolio:
+
+- **Strategic Leadership + Professional Communication**: Effective delegation requires clear communication protocols with Sam and the wider team
+- **Service Design + Academic Rigor**: Evidence-backed service design ensures offerings are tested against research
+- **Financial Management + Critical Thinking**: Sound resource allocation benefits from structured analysis and bias awareness
+
+All competencies connect directly to activities outlined in Section 07 and will be evidenced through outputs documented in my portfolio.
+
+---
+
+*Last updated: January 2025*

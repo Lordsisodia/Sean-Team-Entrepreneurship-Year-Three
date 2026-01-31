@@ -1,0 +1,62 @@
+{
+  "mcpServers": {
+    "siso-internal": {
+      "command": "/Users/shaansisodia/.npm-global/bin/mcp-server-supabase",
+      "args": [
+        "--project-ref=avdgyrepwrvsvwgxrccr"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "sbp_0a734f1ce509418785bdebfe10efe7eaea6ef0e7"
+      },
+      "description": "SISO Internal Supabase - Task management, projects, clients, partnerships, issues, team, communications",
+      "capabilities": [
+        "database_operations",
+        "tasks",
+        "projects",
+        "clients",
+        "partnerships",
+        "issues",
+        "team",
+        "communications"
+      ],
+      "enabled": true
+    },
+    "lumelle": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-supabase"
+      ],
+      "env": {
+        "SUPABASE_PROJECT_REF": "tmsbyiwqzesmirbargxv"
+      },
+      "description": "Lumelle Supabase - Application data, partner platform, customer features",
+      "capabilities": [
+        "database_operations",
+        "app_data",
+        "partners",
+        "customers",
+        "products",
+        "orders"
+      ],
+      "enabled": false
+    }
+  },
+  "settings": {
+    "autoStart": true,
+    "timeout": 60000,
+    "retryAttempts": 3,
+    "maxInstances": 2,
+    "maxAgeSeconds": 7200,
+    "maxCpuPercent": 80,
+    "maxMemoryMb": 500,
+    "healthCheckInterval": 60,
+    "enableAutoCleanup": true
+  },
+  "resourceLimits": {
+    "maxTotalServers": 10,
+    "maxConcurrentServers": 6,
+    "restartOnCrash": true,
+    "gracefulShutdown": true
+  }
+}

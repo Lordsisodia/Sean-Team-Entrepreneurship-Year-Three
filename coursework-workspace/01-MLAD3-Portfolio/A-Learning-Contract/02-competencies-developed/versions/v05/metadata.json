@@ -1,0 +1,99 @@
+{
+  "version": "v05",
+  "title": "Competencies Developed in Year 2",
+  "created": "2026-01-20",
+  "parent_version": "v04",
+  "iteration": 2,
+  "iteration_phase": "refinement",
+  "word_count": {
+    "target": "600-900",
+    "achieved": 823,
+    "status": "on_target",
+    "reduction_from_previous": 244,
+    "reduction_percentage": 23
+  },
+  "changes_from_previous": {
+    "major_changes": [
+      "Word count optimization achieved through condensing prose",
+      "Removed redundancy while maintaining all critical content",
+      "Enhanced flow between competencies",
+      "Tightened expression without losing depth"
+    ],
+    "content_preserved": [
+      "All 6 competencies with Current Levels (5-6/10)",
+      "All Values & Ethics dimensions",
+      "All team member references (Sam, Leo, David, Harry)",
+      "All specific failure stories and metrics",
+      "All 'I felt...' statements and personal struggles"
+    ],
+    "word_count_by_competency": {
+      "innovation_management": {
+        "v04": 161,
+        "v05": 116,
+        "reduction": 45
+      },
+      "strategic_leadership": {
+        "v04": 158,
+        "v05": 115,
+        "reduction": 43
+      },
+      "self_management": {
+        "v04": 164,
+        "v05": 118,
+        "reduction": 46
+      },
+      "professional_communication": {
+        "v04": 172,
+        "v05": 123,
+        "reduction": 49
+      },
+      "entrepreneurial_judgment": {
+        "v04": 171,
+        "v05": 125,
+        "reduction": 46
+      },
+      "service_design_delivery": {
+        "v04": 165,
+        "v05": 126,
+        "reduction": 39
+      }
+    }
+  },
+  "grade_estimate": {
+    "range": "90-95%",
+    "classification": "Outstanding",
+    "rationale": "All marking criteria met through better writing, not content removal. Word count now within target range while maintaining depth, authenticity, and Values & Ethics dimensions."
+  },
+  "learning_outcomes_met": [
+    "Detailed responses showing significant effort",
+    "High levels of self-awareness",
+    "Specific evidence with real examples",
+    "Honest assessment of development",
+    "Connection to UWE TE Competency Framework",
+    "Progressive journey clearly articulated",
+    "Professional values and ethics dimension addressed"
+  ],
+  "strengths": [
+    "Target achieved: 823 words hits 600-900 sweet spot",
+    "No loss of depth: All critical insights preserved",
+    "Better flow: Removal of redundancy enhances readability",
+    "Enhanced impact: Tighter writing makes insights hit harder",
+    "Balanced coverage: Each competency gets equal weight",
+    "Values & Ethics intact: All ethical dimensions preserved"
+  ],
+  "key_insights": [
+    "Word count reduction achieved through better writing, not content removal",
+    "All self-awareness, patterns, and team situations remain",
+    "Tighter prose removes explanation OF insights, not insights themselves",
+    "Result is stronger, not weaker—more impactful because every word carries weight"
+  ],
+  "files": [
+    "draft.md",
+    "feedback.md",
+    "metadata.json"
+  ],
+  "next_steps": [
+    "Awaiting user feedback on word count satisfaction",
+    "Ready for final review or iteration 3 if further refinement needed"
+  ]
+}

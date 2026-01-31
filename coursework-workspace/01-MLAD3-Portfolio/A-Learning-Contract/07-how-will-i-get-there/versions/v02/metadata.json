@@ -1,0 +1,136 @@
+{
+  "version": "v02",
+  "section": "07-how-will-i-get-there",
+  "created": "2026-01-20T10:00:00Z",
+  "modified": "2026-01-20T10:00:00Z",
+  "status": "ready_for_submission",
+  "word_count": {
+    "target": 500,
+    "actual": 470,
+    "within_tolerance": true,
+    "count_method": "markdown",
+    "count_date": "2026-01-20",
+    "variance": -30,
+    "variance_percent": -6
+  },
+  "competency_balance": {
+    "self_development": 2,
+    "team_development": 2,
+    "venture": 2,
+    "total": 6,
+    "status": "balanced_2_2_2"
+  },
+  "competencies": [
+    {
+      "name": "Values Alignment",
+      "area": "self_development",
+      "current_level": 4,
+      "target_level": 8,
+      "team_situation": "David suggested cutting corners on partner vetting",
+      "emotional_reaction": "felt uneasy but stayed silent"
+    },
+    {
+      "name": "Emotional Intelligence",
+      "area": "self_development",
+      "current_level": 3,
+      "target_level": 7,
+      "team_situation": "Harry critiqued delegation approach",
+      "emotional_reaction": "felt attacked and shut down"
+    },
+    {
+      "name": "Mentoring Others",
+      "area": "team_development",
+      "current_level": 3,
+      "target_level": 8,
+      "team_situation": "Working with Sam on task delegation",
+      "emotional_reaction": "felt frustrated when tasks not done my way"
+    },
+    {
+      "name": "Team Communication",
+      "area": "team_development",
+      "current_level": 4,
+      "target_level": 8,
+      "team_situation": "Leo challenged proposal in meeting",
+      "emotional_reaction": "felt dismissed and pushed harder"
+    },
+    {
+      "name": "Service Design & Delivery",
+      "area": "venture",
+      "current_level": 2,
+      "target_level": 7,
+      "team_situation": null,
+      "emotional_reaction": null
+    },
+    {
+      "name": "Financial Management",
+      "area": "venture",
+      "current_level": 3,
+      "target_level": 7,
+      "team_situation": null,
+      "emotional_reaction": null
+    }
+  ],
+  "success_criteria": {
+    "word_count_450_550": true,
+    "competency_balance_2_2_2": true,
+    "specific_team_situations": true,
+    "personal_feelings_included": true,
+    "values_ethics_dimension": true,
+    "honest_assessment": true,
+    "specific_targets_timelines": true
+  },
+  "feedback_incorporated": [
+    "Achieved 2-2-2 competency balance (Self-Team-Venture)",
+    "Reduced word count from 1,896 to 470 words",
+    "Added values/ethics dimension throughout",
+    "Included specific team situations (David, Harry, Sam, Leo)",
+    "Added personal feelings/reactions (I felt...)",
+    "Maintained honest self-assessment style"
+  ],
+  "feedback_pending": [],
+  "parent_version": "v01",
+  "child_version": null,
+  "reviewer": null,
+  "completion_estimate": null,
+  "depends_on": [],
+  "informs": ["08-competencies-will-develop"],
+  "agent_work": {
+    "started": true,
+    "completed": true,
+    "phases_completed": 5,
+    "phases_total": 5,
+    "prompts_completed": 1,
+    "prompts_total": 1,
+    "last_prompt": "v02_autonomous_rewrite",
+    "agent_task_md_exists": true
+  },
+  "changes_from_v01": {
+    "word_count": {
+      "from": 1896,
+      "to": 470,
+      "change": -1426,
+      "percent_change": -75.2
+    },
+    "competencies_removed": [
+      "Self-Management",
+      "Entrepreneurial Judgment",
+      "Strategic Leadership (reframed as Mentoring Others)",
+      "Professional Communication (reframed as Team Communication)"
+    ],
+    "competencies_added": [
+      "Values Alignment",
+      "Emotional Intelligence"
+    ],
+    "competencies_reframed": [
+      "Strategic Leadership → Mentoring Others (Team focus)",
+      "Professional Communication → Team Communication (Team focus)"
+    ],
+    "major_improvements": [
+      "Corrected 0-0.5-5.5 imbalance to 2-2-2",
+      "Added values/ethics dimension throughout",
+      "Added personal feelings/reactions",
+      "Added specific team situations with named team members",
+      "Reduced word count to target range"
+    ]
+  }
+}

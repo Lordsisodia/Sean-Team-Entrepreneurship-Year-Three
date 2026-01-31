@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("react-xhp",["ReactRenderer","react"],(function(t,n,r,o,a,i){"use strict";var e,l=e||(e=n("react"));function s(e){var t=e.constructor,r=e.props,o=e.placeholderElement,a=e.acrossTransitions,i=e.clobberSiblings,s=e.preloader,u=e.bigPipeContext,c=e.concurrentRootOptions;return n("ReactRenderer").constructAndRenderElementIntoComment_DO_NOT_USE({elementInitial:l.jsx(t,babelHelpers.extends({},r)),placeholderElement:o,acrossTransitions:a,clobberSiblings:i,preloader:s,bigPipeContext:u,concurrentRootOptions:c})}a.exports={constructAndRenderComponentIntoComment_DO_NOT_USE:s}}),null);
