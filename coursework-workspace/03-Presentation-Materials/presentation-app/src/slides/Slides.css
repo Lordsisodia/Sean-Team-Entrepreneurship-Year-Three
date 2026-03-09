@@ -8,6 +8,7 @@
   --accent-hover: #ff6b35;
   --gray-bar: #6b7280;
   --green-accent: #4ade80;
+  --success: #4ade80;
 }
 
 /* Utility Classes */
@@ -89,6 +90,23 @@
   font-weight: 500;
   margin-top: 0.5em;
   opacity: 0.9;
+}
+
+.title-slide .vision-pill-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, rgba(74, 222, 128, 0.15), rgba(74, 222, 128, 0.05));
+  border: 1px solid var(--success);
+  padding: 8px 20px;
+  border-radius: 30px;
+  margin-top: 1.5em;
+  font-weight: 600;
+  color: var(--success);
+}
+
+.title-slide .vision-icon {
+  font-size: 1.2em;
 }
 
 .title-slide .metrics-grid {
@@ -1184,6 +1202,233 @@
 .action-no {
   background: rgba(239, 68, 68, 0.2);
   color: #ef4444;
+}
+
+/* Future Development - New Layout */
+.future-development {
+  padding: 30px 40px !important;
+}
+
+.future-development .slide-header {
+  margin-bottom: 15px;
+}
+
+.future-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 25px;
+}
+
+.future-left,
+.future-right {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.future-section {
+  background: var(--bg-secondary);
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.future-section .section-tag {
+  display: block;
+  font-size: 0.65em;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.1em;
+  margin-bottom: 12px;
+}
+
+/* Mini Timeline */
+.mini-timeline {
+  display: flex;
+  gap: 8px;
+}
+
+.mini-card {
+  flex: 1;
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  padding: 10px;
+  border-left: 3px solid;
+}
+
+.mini-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.mini-month {
+  font-size: 0.75em;
+  font-weight: 700;
+}
+
+.mini-date {
+  font-size: 0.55em;
+  color: var(--text-secondary);
+}
+
+.mini-title {
+  font-size: 0.7em;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 4px;
+}
+
+.mini-target {
+  font-size: 0.6em;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+}
+
+.mini-items {
+  margin: 0;
+  padding-left: 14px;
+  font-size: 0.5em;
+  color: var(--text-secondary);
+}
+
+.mini-items li {
+  margin-bottom: 2px;
+}
+
+/* Checkpoints Row */
+.checkpoints-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px;
+}
+
+.checkpoint-box {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+}
+
+.checkpoint-month {
+  font-size: 0.7em;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 4px;
+}
+
+.checkpoint-q {
+  font-size: 0.55em;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+}
+
+.checkpoint-answers {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.45em;
+}
+
+.ans-yes {
+  color: #4ade80;
+}
+
+.ans-no {
+  color: #ef4444;
+}
+
+/* Year 1 Grid */
+.year1-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.year1-cell {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 6px;
+  padding: 8px;
+  text-align: center;
+}
+
+.year1-period {
+  font-size: 0.65em;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.year1-target {
+  font-size: 0.7em;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 4px 0;
+}
+
+.year1-clients {
+  font-size: 0.5em;
+  color: var(--text-secondary);
+}
+
+/* Criteria Grid */
+.criteria-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.criteria-item {
+  display: flex;
+  gap: 8px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.criteria-icon {
+  font-size: 1em;
+  flex-shrink: 0;
+}
+
+.criteria-content {
+  flex: 1;
+}
+
+.criteria-title {
+  font-size: 0.65em;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 2px;
+}
+
+.criteria-desc {
+  font-size: 0.5em;
+  color: var(--text-secondary);
+}
+
+/* Contingency List */
+.contingency-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.contingency-item {
+  display: flex;
+  gap: 6px;
+  font-size: 0.55em;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}
+
+.cont-trigger {
+  font-weight: 700;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.cont-plan {
+  color: var(--text-secondary);
 }
 
 /* LbD Decision Criteria */

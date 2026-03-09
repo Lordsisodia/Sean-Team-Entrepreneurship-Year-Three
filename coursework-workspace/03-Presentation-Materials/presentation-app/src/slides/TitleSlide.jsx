@@ -10,6 +10,11 @@ export default function TitleSlide({ slideNumber = '01' }) {
       <h1>From Code to<br/><span className="accent">AI Infrastructure</span></h1>
       <p className="tagline">Pivoting from development to building the foundation</p>
 
+      <div className="vision-pill-title">
+        <span className="vision-icon">🎯</span>
+        <span>Vision: 1 Trillion Tokens/Day</span>
+      </div>
+
       <div className="metrics-grid">
         <div className="metric-card">
           <div className="metric-value">£72.3bn</div>
