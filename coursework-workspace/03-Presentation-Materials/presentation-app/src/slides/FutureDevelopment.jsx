@@ -2,7 +2,7 @@
 import { motion } from 'framer-motion';
 import './Slides.css';
 
-export default function FutureDevelopment() {
+export default function FutureDevelopment({ slideNumber = '10' }) {
   const roadmapItems = [
     {
       month: 'MONTH 1',
@@ -78,7 +78,7 @@ export default function FutureDevelopment() {
   return (
     <div className="slide future-development">
       <div className="slide-header">
-        <span className="slide-number">09</span>
+        <span className="slide-number">{slideNumber}</span>
         <h2>Future Development Plan</h2>
       </div>
 
@@ -153,6 +153,21 @@ export default function FutureDevelopment() {
             </motion.div>
           ))}
         </div>
+      </motion.div>
+
+      <motion.div
+        className="vision-section"
+        variants={containerVariants}
+        initial="hidden"
+        animate="visible"
+      >
+        <h3 className="section-title">Connection to Vision</h3>
+        <ul className="vision-connections">
+          <li><strong>Month 1-3:</strong> Build infrastructure → enables scaling</li>
+          <li><strong>Year 1:</strong> 50+ clients → data for AI training</li>
+          <li><strong>Year 5:</strong> 500+ clients → 1M+ tokens/day</li>
+          <li><strong>Year 30:</strong> Industry leader</li>
+        </ul>
       </motion.div>
     </div>
   );

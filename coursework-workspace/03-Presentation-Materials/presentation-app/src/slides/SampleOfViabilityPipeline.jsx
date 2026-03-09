@@ -1,20 +1,20 @@
 // Sample of Viability - Pipeline
 import './Slides.css';
 
-export default function SampleOfViabilityPipeline() {
+export default function SampleOfViabilityPipeline({ slideNumber = '09' }) {
   const pipeline = [
-    { name: '[Name 1]', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'Ready' },
-    { name: '[Name 2]', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'Ready' },
-    { name: '[Name 3]', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'Ready' },
-    { name: '[Name 4]', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'Ready' },
-    { name: '[Name 5]', niche: "Tech Products", offer: '£1K + £200/mo', status: 'Ready' },
-    { name: '[Name 6]', niche: "Supplements", offer: '£1K + £200/mo', status: 'Ready' },
+    { name: 'Luminell', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'PAID' },
+    { name: 'Velvet & Co', niche: "Women's Fashion", offer: '£1K + £200/mo', status: 'Ready' },
+    { name: 'Patchwork', niche: "Supplements", offer: '£1K + £200/mo', status: 'Ready' },
+    { name: 'Vitality Co', niche: "Supplements", offer: '£1K + £200/mo', status: 'Ready' },
+    { name: 'Breathe', niche: "Face Care", offer: '£1K + £200/mo', status: 'Ready' },
+    { name: 'Luma Skin', niche: "Skincare", offer: '£1K + £200/mo', status: 'Ready' },
   ];
 
   return (
     <div className="slide sample-viability">
       <div className="slide-header">
-        <span className="slide-number">06</span>
+        <span className="slide-number">{slideNumber}</span>
         <h2>Sample of Viability - Pipeline</h2>
       </div>
 
@@ -58,7 +58,7 @@ export default function SampleOfViabilityPipeline() {
       </div>
 
       <p className="small-text" style={{ marginTop: '15px' }}>
-        <span className="bold">Key stat:</span> 4.5/6 clients are <span className="accent">women's fashion e-commerce</span> - validated niche
+        <span className="bold">Key stat:</span> 2/6 paid or ready in <span className="accent">fashion</span> + 2 in <span className="accent">supplements</span> + 2 in <span className="accent">skincare</span> - validated e-commerce niches
       </p>
     </div>
   );

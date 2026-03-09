@@ -2,7 +2,7 @@
 import './Slides.css';
 import { motion } from 'framer-motion';
 
-export default function LbDCriteria() {
+export default function LbDCriteria({ slideNumber = '11' }) {
   const criteria = [
     {
       number: '01',
@@ -35,7 +35,7 @@ export default function LbDCriteria() {
   return (
     <div className="slide lbd-criteria">
       <div className="slide-header">
-        <span className="slide-number">10</span>
+        <span className="slide-number">{slideNumber}</span>
         <h2>LbD Decision Criteria</h2>
       </div>
 

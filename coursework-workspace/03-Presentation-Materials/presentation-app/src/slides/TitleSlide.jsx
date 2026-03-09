@@ -1,9 +1,10 @@
 // Title Slide
 import './Slides.css';
 
-export default function TitleSlide() {
+export default function TitleSlide({ slideNumber = '01' }) {
   return (
     <div className="slide title-slide">
+      <span className="slide-number">{slideNumber}</span>
       <span className="intro-tag">TEAM APOLLO</span>
       <p className="hook">EXIT STRATEGY FOR AN AI AUTOMATION AGENCY</p>
       <h1>From Code to<br/><span className="accent">AI Infrastructure</span></h1>
