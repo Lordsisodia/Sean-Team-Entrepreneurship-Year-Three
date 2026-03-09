@@ -6,7 +6,11 @@ export default function WhereIveBeen() {
     {
       date: 'DEC 2024 - SEP 2025',
       title: 'Crypto App',
-      details: '6 weeks | £200 tokens | £5K paid',
+      duration: '6 months',
+      durationColor: 'duration-long',
+      cost: '£200 tokens',
+      revenue: '£5K',
+      revenueContext: '×1',
       desc: '1 client only. Market size: ~£10K. Code: locked (NDA). Not reusable.',
       pivot: {
         points: [
@@ -19,7 +23,11 @@ export default function WhereIveBeen() {
     {
       date: 'OCT - DEC 2025',
       title: 'Restaurant App',
-      details: '6 weeks | £400 tokens | £300 paid',
+      duration: '10 weeks',
+      durationColor: 'duration-medium',
+      cost: '£400 tokens',
+      revenue: 'Free',
+      revenueContext: '×10',
       desc: '50 potential clients. Market size: ~£50K. Code: partially reusable. Limited scale.',
       pivot: {
         points: [
@@ -32,7 +40,11 @@ export default function WhereIveBeen() {
     {
       date: 'JAN - MAR 2026',
       title: 'E-commerce',
-      details: '4 weeks | £800 tokens | In progress',
+      duration: '4 weeks',
+      durationColor: 'duration-short',
+      cost: '£800 tokens',
+      revenue: 'In progress',
+      revenueContext: '×2',
       desc: '1M+ potential clients. Market size: huge. Code: 90% reusable.',
       isPivot: true
     }
@@ -56,7 +68,16 @@ export default function WhereIveBeen() {
               <div className={`timeline-item ${item.isPivot ? 'pivot' : ''}`}>
                 <div className="timeline-date">{item.date}</div>
                 <div className="timeline-title">{item.title}</div>
-                <div className="timeline-details">{item.details}</div>
+
+                <div className="pill-row">
+                  <span className={`pill pill-duration ${item.durationColor}`}>{item.duration}</span>
+                  <span className="pill pill-cost">{item.cost}</span>
+                  <span className="pill pill-revenue">
+                    {item.revenue}
+                    {item.revenueContext && <span className="pill-context">{item.revenueContext}</span>}
+                  </span>
+                </div>
+
                 <div className="timeline-desc">{item.desc}</div>
               </div>
 

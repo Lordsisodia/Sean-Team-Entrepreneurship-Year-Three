@@ -11,20 +11,20 @@ export default function TitleSlide() {
 
       <div className="metrics-grid">
         <div className="metric-card">
-          <div className="metric-value">£2.8bn</div>
-          <div className="metric-label">UK Market Size</div>
+          <div className="metric-value">£72.3bn</div>
+          <div className="metric-label">UK AI Market</div>
         </div>
         <div className="metric-card">
-          <div className="metric-value">34%</div>
-          <div className="metric-label">Annual Growth</div>
+          <div className="metric-value">68%</div>
+          <div className="metric-label">UK Revenue Growth</div>
         </div>
         <div className="metric-card">
-          <div className="metric-value">88%</div>
-          <div className="metric-label">Skills Gap</div>
+          <div className="metric-value">47.3%</div>
+          <div className="metric-label">AI Agents CAGR</div>
         </div>
       </div>
 
-      <p className="name"><strong>Shaan Sisodia</strong></p>
+      <p className="name">Shaan Sisodia</p>
       <p className="subtitle">
         Reflection on Enterprising & Entrepreneurial Practice<br/>
         <em>Learning by Doing</em>

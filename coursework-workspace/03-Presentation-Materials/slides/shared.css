@@ -1,0 +1,76 @@
+/* Shared styles for presentation slides */
+:root {
+  --bg-primary: #191919;
+  --bg-secondary: #37352f;
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255,255,255,0.7);
+  --accent: #f2994a;
+  --accent-hover: #ff6b35;
+}
+
+.reveal {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-primary);
+}
+
+.reveal .slides { text-align: left; }
+.reveal .slides section { background: var(--bg-primary); }
+
+.reveal h1 { font-size: 2.8em; color: var(--text-primary); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+.reveal h2 { font-size: 1.8em; color: var(--text-primary); font-weight: 700; margin-bottom: 0.8em; text-transform: uppercase; letter-spacing: 0.03em; }
+.reveal h3 { font-size: 1.1em; color: var(--accent); font-weight: 600; margin-top: 1em; margin-bottom: 0.5em; }
+.reveal h4 { font-size: 0.9em; color: var(--text-primary); font-weight: 600; margin-top: 1em; text-transform: uppercase; letter-spacing: 0.02em; }
+
+.reveal p, .reveal li { font-size: 0.78em; color: var(--text-secondary); line-height: 1.6; }
+.reveal ul { margin-left: 0; }
+.reveal li { margin-bottom: 0.6em; }
+.reveal li::marker { color: var(--accent); }
+
+.highlight { color: var(--accent) !important; font-weight: 600; }
+.accent { color: var(--accent); }
+.bold { color: var(--text-primary); font-weight: 600; }
+
+.small-text { font-size: 0.65em !important; color: var(--text-secondary) !important; }
+.small-text em { color: var(--accent) !important; font-style: normal; }
+
+table { font-size: 0.6em !important; width: 100%; border-collapse: collapse; }
+th, td { padding: 10px 12px !important; border: 1px solid rgba(255,255,255,0.1) !important; color: var(--text-secondary); }
+th { background: var(--bg-secondary) !important; color: var(--text-primary) !important; font-weight: 600; }
+
+code { background: var(--bg-secondary); color: var(--accent); padding: 3px 8px; border-radius: 4px; font-size: 0.9em; }
+
+.reveal .progress { background: var(--bg-secondary); }
+.reveal .progress span { background: var(--accent); }
+.reveal .slide-number { color: var(--text-secondary); font-size: 0.5em; }
+
+.intro-tag { display: inline-block; background: var(--accent); color: var(--bg-primary); padding: 4px 12px; border-radius: 4px; font-size: 0.5em; font-weight: 600; margin-bottom: 1em; }
+.section-header { border-left: 4px solid var(--accent); padding-left: 20px; margin-bottom: 30px; }
+.card { background: var(--bg-secondary); padding: 15px 20px; border-radius: 8px; margin-bottom: 15px; }
+.card h4 { margin-top: 0; margin-bottom: 10px; }
+
+.two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+.three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; }
+
+.stat { text-align: center; padding: 15px; }
+.stat-number { font-size: 2em; color: var(--accent); font-weight: 700; }
+.stat-label { font-size: 0.6em; color: var(--text-secondary); text-transform: uppercase; }
+
+.metric { display: flex; align-items: center; gap: 15px; margin-bottom: 10px; }
+.metric-bar { flex: 1; height: 8px; background: var(--bg-secondary); border-radius: 4px; overflow: hidden; }
+.metric-fill { height: 100%; background: var(--accent); border-radius: 4px; }
+.metric-label { font-size: 0.65em; color: var(--text-secondary); min-width: 120px; }
+.metric-value { font-size: 0.65em; color: var(--accent); font-weight: 600; }
+
+.timeline { position: relative; padding-left: 30px; }
+.timeline::before { content: ''; position: absolute; left: 6px; top: 0; bottom: 0; width: 2px; background: var(--accent); }
+.timeline-item { position: relative; margin-bottom: 20px; }
+.timeline-item::before { content: ''; position: absolute; left: -28px; top: 4px; width: 10px; height: 10px; background: var(--accent); border-radius: 50%; }
+.timeline-date { font-size: 0.6em; color: var(--accent); font-weight: 600; }
+.timeline-title { font-size: 0.8em; color: var(--text-primary); font-weight: 600; }
+.timeline-desc { font-size: 0.65em; color: var(--text-secondary); }
+
+.criteria-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+.criteria-item { background: var(--bg-secondary); padding: 15px; border-radius: 8px; border-left: 3px solid var(--accent); }
+.criteria-num { font-size: 1.5em; color: var(--accent); font-weight: 700; }
+.criteria-title { font-size: 0.8em; color: var(--text-primary); font-weight: 600; margin: 5px 0; }
+.criteria-desc { font-size: 0.6em; color: var(--text-secondary); }
