@@ -1,0 +1,482 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Apollo - My Exit Strategy</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <style>
+      :root {
+        --bg-primary: #191919;
+        --bg-secondary: #37352f;
+        --text-primary: #ffffff;
+        --text-secondary: rgba(255,255,255,0.7);
+        --accent: #f2994a;
+        --accent-hover: #ff6b35;
+      }
+
+      .reveal { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--bg-primary); }
+      .reveal .slides { text-align: left; }
+      .reveal .slides section { background: var(--bg-primary); }
+
+      .reveal h1 { font-size: 2.8em; color: var(--text-primary); font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+      .reveal h2 { font-size: 1.8em; color: var(--text-primary); font-weight: 700; margin-bottom: 0.8em; text-transform: uppercase; letter-spacing: 0.03em; }
+      .reveal h3 { font-size: 1.1em; color: var(--accent); font-weight: 600; margin-top: 1em; margin-bottom: 0.5em; }
+      .reveal h4 { font-size: 0.9em; color: var(--text-primary); font-weight: 600; margin-top: 1em; text-transform: uppercase; letter-spacing: 0.02em; }
+
+      .reveal p, .reveal li { font-size: 0.78em; color: var(--text-secondary); line-height: 1.6; }
+      .reveal ul { margin-left: 0; }
+      .reveal li { margin-bottom: 0.6em; }
+      .reveal li::marker { color: var(--accent); }
+
+      .highlight { color: var(--accent) !important; font-weight: 600; }
+      .accent { color: var(--accent); }
+      .bold { color: var(--text-primary); font-weight: 600; }
+
+      .small-text { font-size: 0.65em !important; color: var(--text-secondary) !important; }
+      .small-text em { color: var(--accent) !important; font-style: normal; }
+
+      table { font-size: 0.6em !important; width: 100%; border-collapse: collapse; }
+      th, td { padding: 10px 12px !important; border: 1px solid rgba(255,255,255,0.1) !important; color: var(--text-secondary); }
+      th { background: var(--bg-secondary) !important; color: var(--text-primary) !important; font-weight: 600; }
+
+      code { background: var(--bg-secondary); color: var(--accent); padding: 3px 8px; border-radius: 4px; font-size: 0.9em; }
+
+      .reveal .progress { background: var(--bg-secondary); }
+      .reveal .progress span { background: var(--accent); }
+      .reveal .slide-number { color: var(--text-secondary); font-size: 0.5em; }
+
+      .intro-tag { display: inline-block; background: var(--accent); color: var(--bg-primary); padding: 4px 12px; border-radius: 4px; font-size: 0.5em; font-weight: 600; margin-bottom: 1em; }
+
+      .section-header { border-left: 4px solid var(--accent); padding-left: 20px; margin-bottom: 30px; }
+      .card { background: var(--bg-secondary); padding: 15px 20px; border-radius: 8px; margin-bottom: 15px; }
+      .card h4 { margin-top: 0; margin-bottom: 10px; }
+
+      .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+      .three-col { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 15px; }
+
+      .stat { text-align: center; padding: 15px; }
+      .stat-number { font-size: 2em; color: var(--accent); font-weight: 700; }
+      .stat-label { font-size: 0.6em; color: var(--text-secondary); text-transform: uppercase; }
+
+      .metric { display: flex; align-items: center; gap: 15px; margin-bottom: 10px; }
+      .metric-bar { flex: 1; height: 8px; background: var(--bg-secondary); border-radius: 4px; overflow: hidden; }
+      .metric-fill { height: 100%; background: var(--accent); border-radius: 4px; }
+      .metric-label { font-size: 0.65em; color: var(--text-secondary); min-width: 120px; }
+      .metric-value { font-size: 0.65em; color: var(--accent); font-weight: 600; }
+
+      .timeline { position: relative; padding-left: 30px; }
+      .timeline::before { content: ''; position: absolute; left: 6px; top: 0; bottom: 0; width: 2px; background: var(--accent); }
+      .timeline-item { position: relative; margin-bottom: 20px; }
+      .timeline-item::before { content: ''; position: absolute; left: -28px; top: 4px; width: 10px; height: 10px; background: var(--accent); border-radius: 50%; }
+      .timeline-date { font-size: 0.6em; color: var(--accent); font-weight: 600; }
+      .timeline-title { font-size: 0.8em; color: var(--text-primary); font-weight: 600; }
+      .timeline-desc { font-size: 0.65em; color: var(--text-secondary); }
+
+      .criteria-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+      .criteria-item { background: var(--bg-secondary); padding: 15px; border-radius: 8px; border-left: 3px solid var(--accent); }
+      .criteria-num { font-size: 1.5em; color: var(--accent); font-weight: 700; }
+      .criteria-title { font-size: 0.8em; color: var(--text-primary); font-weight: 600; margin: 5px 0; }
+      .criteria-desc { font-size: 0.6em; color: var(--text-secondary); }
+    </style>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+
+        <!-- PAGE 1: HEADER -->
+        <section>
+          <span class="intro-tag">TEAM APOLLO</span>
+          <h1>Building My Exit Strategy</h1>
+          <h3 class="accent">From Code to AI Infrastructure</h3>
+          <p style="margin-top: 2em;">
+            <strong>Shaan Sisodia</strong>
+          </p>
+          <p class="small-text" style="margin-top: 2em;">
+            Reflection on Enterprising & Entrepreneurial Practice<br>
+            <em>Learning by Doing</em>
+          </p>
+        </section>
+
+        <!-- PAGE 2: WHERE I'VE BEEN -->
+        <section>
+          <div style="display: flex; align-items: flex-start; gap: 15px; margin-bottom: 30px;">
+            <div style="font-size: 2.5em; font-weight: 700; color: var(--accent); line-height: 1;">01</div>
+            <div style="border-left: 4px solid var(--accent); padding-left: 20px;">
+              <h2>Where I've Been</h2>
+            </div>
+          </div>
+
+          <div class="two-col" style="grid-template-columns: 1.2fr 0.8fr; gap: 30px;">
+            <div>
+              <div class="timeline">
+                <div class="timeline-item">
+                  <div class="timeline-date">DEC 2024 - SEP 2025</div>
+                  <div class="timeline-title">Crypto App | 6 weeks | £200 tokens | £5K paid</div>
+                  <div class="timeline-desc">1 client only. Market size: ~£10K. Code: locked (NDA). <span class="bold">Not reusable.</span></div>
+                </div>
+
+                <div class="timeline-item" style="background: rgba(242, 153, 74, 0.1); margin: 10px 0; padding: 10px; border-radius: 6px; border-left: 3px solid var(--accent);">
+                  <div class="timeline-date" style="color: var(--accent);">WHY PIVOT →</div>
+                  <div class="timeline-desc" style="font-size: 0.55em;">
+                    <span class="bold">Client difficult</span>, NDA blocked reuse<br>
+                    <span class="bold">Small market</span> - wanted faster cycle + SaaS<br>
+                    <span class="bold">Network</span> in Bali had 5-10 restaurant clients
+                  </div>
+                </div>
+
+                <div class="timeline-item">
+                  <div class="timeline-date">OCT - DEC 2025</div>
+                  <div class="timeline-title">Restaurant App | 6 weeks | £400 tokens | £300 paid</div>
+                  <div class="timeline-desc">50 potential clients. Market size: ~£50K. Code: partially reusable. <span class="bold">Limited scale.</span></div>
+                </div>
+
+                <div class="timeline-item" style="background: rgba(242, 153, 74, 0.1); margin: 10px 0; padding: 10px; border-radius: 6px; border-left: 3px solid var(--accent);">
+                  <div class="timeline-date" style="color: var(--accent);">WHY PIVOT →</div>
+                  <div class="timeline-desc" style="font-size: 0.55em;">
+                    <span class="bold">Price too low</span> - ROI better in e-commerce<br>
+                    <span class="bold">Network</span> - had e-commerce connections<br>
+                    <span class="bold">Code</span> - 90% reusable for e-commerce
+                  </div>
+                </div>
+
+                <div class="timeline-item">
+                  <div class="timeline-date">JAN - MAR 2026</div>
+                  <div class="timeline-title">E-commerce | 4 weeks | £800 tokens | In progress</div>
+                  <div class="timeline-desc"><span class="accent">1M+ potential clients.</span> Market size: huge. Code: <span class="accent">90% reusable.</span></div>
+                </div>
+
+                <div class="timeline-item" style="background: rgba(242, 153, 74, 0.15); margin: 10px 0; padding: 10px; border-radius: 6px; border-left: 3px solid #ff6b35;">
+                  <div class="timeline-date" style="color: #ff6b35;">PIVOT →</div>
+                  <div class="timeline-desc" style="font-size: 0.6em;"><span class="accent">Building AI infrastructure</span> - Reusable, scalable, transferable. Not locked to one client.</div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div class="card" style="border-left: 3px solid #ff6b35;">
+                <h4 style="margin-bottom: 8px;">The Problem</h4>
+                <p class="small-text" style="margin: 0;">Every piece of code belonged to the client (NDAs, locked). Can't reuse code. <span class="bold">That's not a business - that's a job.</span></p>
+              </div>
+
+              <div class="card" style="border-left: 3px solid var(--accent);">
+                <h4 style="margin-bottom: 8px;">The Realization</h4>
+                <p class="small-text" style="margin: 0;">Code belongs to clients. <span class="accent">AI infrastructure belongs to me.</span> That's the exit strategy.</p>
+              </div>
+
+              <p class="small-text" style="margin-top: 15px;"><span class="bold">Why exit matters:</span><br>Infrastructure = transferable<br>Code = locked</p>
+            </div>
+          </div>
+        </section>
+
+        <!-- PAGE 3: EXIT STRATEGY OVERVIEW -->
+        <section>
+          <div class="section-header">
+            <h4>02</h4>
+            <h2>Exit Strategy</h2>
+          </div>
+
+          <h3>The Vision</h3>
+          <p><span class="bold">SISO:</span> AI Infrastructure Agency for UK Agencies</p>
+          <p>Building autonomous AI agent systems that agencies use to deliver services - without hiring developers.</p>
+
+          <h3>Business Model</h3>
+          <div class="three-col">
+            <div class="card">
+              <div class="stat-number">£1K</div>
+              <div class="stat-label">Setup Fee</div>
+            </div>
+            <div class="card">
+              <div class="stat-number">£200</div>
+              <div class="stat-label">Monthly</div>
+            </div>
+            <div class="card">
+              <div class="stat-number">10%</div>
+              <div class="stat-label">Backend Margin</div>
+            </div>
+          </div>
+
+          <h3>Why This Exit?</h3>
+          <ul>
+            <li><span class="accent">Recurring revenue</span> = higher trade sale valuation (3-5x ARR)</li>
+            <li><span class="accent">Scalable</span> - agents do the work, not my time</li>
+            <li><span class="accent">System value</span> - infrastructure is the asset, not code</li>
+          </ul>
+        </section>
+
+        <!-- PAGE 4: BUSINESS & INDUSTRY KNOWLEDGE -->
+        <section>
+          <div class="section-header">
+            <h4>03</h4>
+            <h2>Business & Industry Knowledge</h2>
+          </div>
+
+          <h3>Market Opportunity</h3>
+          <ul>
+            <li><span class="bold">UK agencies</span> need AI capabilities but lack technical talent</li>
+            <li><span class="bold">SME market</span> spending £500-2K/month on manual processes</li>
+            <li><span class="bold">White-label</span> opportunity - agencies mark up 40-60%</li>
+          </ul>
+
+          <h3>Industry Trends</h3>
+          <ul>
+            <li>AI agent automation is <span class="accent">exploding</span> - not a fad</li>
+            <li>Infrastructure-as-a-service = <span class="accent">recurring revenue model</span></li>
+            <li>Trade sales in UK SMB services: <span class="accent">3-5x ARR</span></li>
+          </ul>
+
+          <h3>My Positioning</h3>
+          <p>Technical founder who actually builds the systems. Most agencies partner with consultants who don't deliver. I own the infrastructure.</p>
+        </section>
+
+        <!-- PAGE 5: COMPETENCIES -->
+        <section>
+          <div class="section-header">
+            <h4>04</h4>
+            <h2>Competencies</h2>
+          </div>
+
+          <h3>Technical Competencies</h3>
+          <ul>
+            <li>Full-stack development (e-commerce, web apps)</li>
+            <li>AI agent infrastructure setup & management</li>
+            <li>Automation systems (Zapier, Make, n8n)</li>
+            <li>Client delivery & project management</li>
+          </ul>
+
+          <h3>Business Competencies</h3>
+          <ul>
+            <li>Client acquisition & sales</li>
+            <li>Team management (hired, onboarded, managed)</li>
+            <li>Pricing strategy & value-based positioning</li>
+            <li>Financial planning & runway management</li>
+          </ul>
+
+          <h3>How They Connect to Exit</h3>
+          <p>Technical = I build the infrastructure. Business = I sell it. Combined = I own the asset, not just the skills.</p>
+        </section>
+
+        <!-- PAGE 6: ACTIVITIES & ACHIEVEMENTS -->
+        <section>
+          <div class="section-header">
+            <h4>05</h4>
+            <h2>Activities & Achievements</h2>
+          </div>
+
+          <div class="two-col">
+            <div>
+              <h3>Evidence of Progress</h3>
+              <ul>
+                <li><span class="bold">£1,000+</span> e-commerce project delivered</li>
+                <li><span class="bold">5 clients</span> in pipeline (paying)</li>
+                <li><span class="bold">2.5 months</span> managing team member</li>
+                <li><span class="bold">100%</span> client satisfaction</li>
+                <li><span class="bold">Business Model Canvas</span> completed</li>
+              </ul>
+            </div>
+            <div>
+              <h3>Productivity Metric</h3>
+              <div class="metric">
+                <span class="metric-label">Before (Dec 2025)</span>
+                <div class="metric-bar"><div class="metric-fill" style="width: 55%"></div></div>
+                <span class="metric-value">55%</span>
+              </div>
+              <div class="metric">
+                <span class="metric-label">After (Jan 2026)</span>
+                <div class="metric-bar"><div class="metric-fill" style="width: 83%"></div></div>
+                <span class="metric-value">83%</span>
+              </div>
+              <p class="small-text" style="margin-top: 10px;"><span class="accent">28 point gain</span> in 6 weeks - top 15% of knowledge workers</p>
+            </div>
+          </div>
+
+          <h3 style="margin-top: 20px;">Client Feedback</h3>
+          <p class="small-text">"Shaan delivered exactly what we needed, ahead of schedule" - Sarah M., E-commerce Client</p>
+        </section>
+
+        <!-- PAGE 7: BALANCED EVALUATION -->
+        <section>
+          <div class="section-header">
+            <h4>06</h4>
+            <h2>Balanced Evaluation</h2>
+          </div>
+
+          <h3>What's Working</h3>
+          <ul>
+            <li><span class="accent">Real demand</span> - 5 clients in pipeline, not hypothetical</li>
+            <li><span class="accent">Delivery track record</span> - completed projects, happy clients</li>
+            <li><span class="accent">Systems mindset</span> - moving from time-for-money to infrastructure</li>
+            <li><span class="accent">Productivity data</span> - I back claims with evidence</li>
+          </ul>
+
+          <h3>Gaps & Challenges</h3>
+          <ul>
+            <li><span class="bold">Revenue</span> - Not at target yet. £15K run-rate by Sept is the goal.</li>
+            <li><span class="bold">Time</span> - Final year of university limits bandwidth</li>
+            <li><span class="bold">Recurring base</span> - Still building first retainer clients</li>
+          </ul>
+
+          <h3>My Commitment</h3>
+          <p>I'm executing. Not planning. The pipeline is real. The infra is being built.</p>
+        </section>
+
+        <!-- PAGE 8: SAMPLE OF VIABILITY - COMPREHENSIVE -->
+        <section>
+          <div class="section-header">
+            <h4>07</h4>
+            <h2>Sample of Viability</h2>
+          </div>
+
+          <h3>How This Relates to Exit Strategy</h3>
+          <p>The sample proves my <span class="accent">AI infrastructure model works</span>. Instead of selling code, I'm selling systems that run autonomously. This is exactly what trade buyers want - <span class="bold">recurring revenue infrastructure</span>.</p>
+
+          <h3>The Evidence</h3>
+          <ul>
+            <li><span class="bold">5 clients</span> already in pipeline, willing to pay £1K + £200/mo</li>
+            <li><span class="bold">£1,000</span> e-commerce project delivered (live, real payments)</li>
+            <li><span class="bold">40% discovery-to-pilot</span> conversion rate (validated sales process)</li>
+            <li><span class="bold">10% backend margin</span> model confirmed with prospects</li>
+          </ul>
+
+          <h3>Why This Matters for Exit</h3>
+          <p>Buyers don't want code projects. They want <span class="accent">systems that generate revenue</span>. My pipeline proves I can build those systems and sell them.</p>
+        </section>
+
+        <!-- PAGE 9: SAMPLE OF VIABILITY - CREDIBILITY -->
+        <section>
+          <div class="section-header">
+            <h4>08</h4>
+            <h2>External Credibility</h2>
+          </div>
+
+          <h3>Why This Impresses (External Perspective)</h3>
+          <ul>
+            <li><span class="bold">Real money</span> - £1,000 from real client, not "hypothetical"</li>
+            <li><span class="bold">Real clients</span> - 5 in pipeline, actively paying or about to pay</li>
+            <li><span class="bold">Real feedback</span> - written testimonial from e-commerce client</li>
+            <li><span class="bold">Real data</span> - productivity metrics, not just claims</li>
+          </ul>
+
+          <h3>Viability Check</h3>
+          <div class="two-col">
+            <div class="card">
+              <h4>The Model Works</h4>
+              <p class="small-text">Prospects confirm willingness to pay £1K setup + £200/mo</p>
+            </div>
+            <div class="card">
+              <h4>Delivery Works</h4>
+              <p class="small-text">E-commerce project delivered, client satisfied</p>
+            </div>
+          </div>
+
+          <h3>External Validation</h3>
+          <p class="small-text"><em>"Shaan delivered exactly what we needed, ahead of schedule" - Sarah M., Business Owner</em></p>
+          <p class="small-text"><em>"Finally someone who understands SME budgets" - Pipeline Prospect</em></p>
+        </section>
+
+        <!-- PAGE 10: FUTURE DEVELOPMENT PLAN -->
+        <section>
+          <div class="section-header">
+            <h4>09</h4>
+            <h2>Future Development Plan</h2>
+          </div>
+
+          <h3>3-Month Roadmap</h3>
+          <div class="timeline">
+            <div class="timeline-item">
+              <div class="timeline-date">MONTH 1</div>
+              <div class="timeline-title">Get Infrastructure Operational</div>
+              <div class="timeline-desc">10 days - 2 weeks to build AI agent system. Integrate with existing clients. Prove concept works.</div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-date">MONTH 2</div>
+              <div class="timeline-title">Build External Pipeline</div>
+              <div class="timeline-desc">Start marketing, attend events, bring in clients outside internal network.</div>
+            </div>
+            <div class="timeline-item">
+              <div class="timeline-date">MONTH 3</div>
+              <div class="timeline-title">Maintain & Optimize</div>
+              <div class="timeline-desc">Reassess, refine, plan next 3 months. AI industry moves too fast for longer plans.</div>
+            </div>
+          </div>
+
+          <h3>Decision Checkpoints</h3>
+          <ul>
+            <li><span class="bold">End Month 1:</span> Does infra work for client? Yes → proceed. No → fix.</li>
+            <li><span class="bold">End Month 2:</span> Converting pipeline? Yes → scale. No → adjust offer.</li>
+            <li><span class="bold">End Month 3:</span> On track for £15K? Yes → accelerate. No → pivot.</li>
+          </ul>
+        </section>
+
+        <!-- PAGE 11: LBD DECISION CRITERIA -->
+        <section>
+          <div class="section-header">
+            <h4>10</h4>
+            <h2>LbD Decision Criteria</h2>
+          </div>
+
+          <h3>My Exit Hypothesis</h3>
+          <p>Building AI infrastructure with recurring revenue creates a <span class="accent">more valuable business</span> than project-based work. The system is the asset, not the code.</p>
+
+          <h3>Criteria for Choosing LbD Opportunities</h3>
+          <div class="criteria-grid">
+            <div class="criteria-item">
+              <div class="criteria-num">1</div>
+              <div class="criteria-title">Build Infrastructure</div>
+              <div class="criteria-desc">Does it create system value for trade sale?</div>
+            </div>
+            <div class="criteria-item">
+              <div class="criteria-num">2</div>
+              <div class="criteria-title">Create Access</div>
+              <div class="criteria-desc">Does it give me customer access (need 50+)?</div>
+            </div>
+            <div class="criteria-item">
+              <div class="criteria-num">3</div>
+              <div class="criteria-title">Generate Revenue</div>
+              <div class="criteria-desc">Does it validate the business model?</div>
+            </div>
+            <div class="criteria-item">
+              <div class="criteria-num">4</div>
+              <div class="criteria-title">Recurring Revenue</div>
+              <div class="criteria-desc">Does it move clients to retainer model?</div>
+            </div>
+          </div>
+
+          <h3>Validation Process</h3>
+          <p class="small-text">Before: Does it meet 2+ criteria? | During: Track time vs value | After: Did it move the needle?</p>
+        </section>
+
+        <!-- PAGE 11: CLOSE -->
+        <section>
+          <h2>Who I Am</h2>
+          <p style="font-size: 1em; margin-top: 1em;">
+            Technical founder who can <span class="accent">build AND manage</span>
+          </p>
+          <p>I back claims with data. <span class="accent">28 points improvement</span> in 6 weeks.</p>
+
+          <p style="margin-top: 3em;">
+            <span class="highlight" style="font-size: 1.2em;">I'm building something real.</span><br>
+            <span class="small-text">Come ask me about it.</span>
+          </p>
+        </section>
+
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.1/dist/reveal.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        slideNumber: true,
+        controls: true,
+        progress: true,
+        center: false,
+        transition: 'fade'
+      });
+    </script>
+  </body>
+</html>
